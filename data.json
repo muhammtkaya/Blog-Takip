@@ -1,0 +1,2922 @@
+{
+  "generatedAt": "2026-11-24T17:54:48.826Z",
+  "count": 290,
+  "sources": [
+    "Decrypt",
+    "Dan Luu",
+    "Asianometry",
+    "Cloudflare Blog",
+    "ByteByteGo",
+    "Streaming Learning Center",
+    "Simon Willison",
+    "Import AI",
+    "Pragmatic Engineer",
+    "Brendan Gregg",
+    "Marc Brooker",
+    "Antirez",
+    "SemiAnalysis",
+    "Chips and Cheese"
+  ],
+  "items": [
+    {
+      "id": "https://decrypt.co/?p=383730",
+      "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
+      "link": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T17:45:22.000Z",
+      "summary": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383889",
+      "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
+      "link": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T17:43:03.000Z",
+      "summary": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-24T16:53:59.000Z",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary ",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383877",
+      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
+      "link": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T16:00:44.000Z",
+      "summary": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383874",
+      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+      "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T14:13:03.000Z",
+      "summary": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383857",
+      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+      "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T13:46:03.000Z",
+      "summary": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383868",
+      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
+      "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T13:07:49.000Z",
+      "summary": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383860",
+      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+      "link": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T13:01:30.000Z",
+      "summary": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383854",
+      "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
+      "link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T12:40:47.000Z",
+      "summary": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383853",
+      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
+      "link": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T11:35:13.000Z",
+      "summary": "Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "title": "datasette-charts 0.2a0",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-24T04:24:29.000Z",
+      "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Downl",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "title": "datasette-agent 0.7a1",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-24T03:45:57.000Z",
+      "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fi",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-23T23:40:49.000Z",
+      "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=383851",
+      "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+      "link": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T23:06:02.000Z",
+      "summary": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "title": "Ladybird's first alpha release",
+      "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-23T21:46:35.000Z",
+      "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, ",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383848",
+      "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+      "link": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T21:46:03.000Z",
+      "summary": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383846",
+      "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
+      "link": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T21:16:03.000Z",
+      "summary": "Alexandr Wang says Claude’s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383844",
+      "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+      "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T20:36:02.000Z",
+      "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\"",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383841",
+      "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
+      "link": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T19:57:21.000Z",
+      "summary": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383820",
+      "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
+      "link": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T18:45:21.000Z",
+      "summary": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383818",
+      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+      "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T18:16:25.000Z",
+      "summary": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383821",
+      "title": "Perps and Swaps: How to Trade the News on Decrypt",
+      "link": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T18:15:45.000Z",
+      "summary": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383815",
+      "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
+      "link": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T17:28:08.000Z",
+      "summary": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383800",
+      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+      "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T16:46:03.000Z",
+      "summary": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383801",
+      "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
+      "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T16:32:04.000Z",
+      "summary": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
+      "title": "DoorDash Dispatch: Building a Lightning-Fast Delivery System",
+      "link": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-23T16:31:03.000Z",
+      "summary": "In this article, we’ll look at how DoorDash Dispatch built a lightning-fast delivery system.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab’s AI science benchmark",
+      "link": "https://jack-clark.net/2026/11/23/import-ai-482-huawei-kernel-benchmarks-airborne-drone-detection-and-a-national-labs-ai-science-benchmark/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-11-23T14:11:17.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. Subscribe now Chinese researchers optimize Huawei chips with a kernel improvement benchmark:…AscendGYM will help China do its own form of RSI…Researchers with the Shenzhen Loop Area Institute, a Chinese research organization, have built and released AscendGYM, […]",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383797",
+      "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
+      "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T14:07:21.000Z",
+      "summary": "The board said senior U.S. officials' input left it confident Huang's return poses no national security risk. Shares jumped 26% premarket.",
+      "importance": "important"
+    },
+    {
+      "id": "01M7XNSFEMYQNMHGRYWVF2TQ82",
+      "title": "Probing DNS at Cloudflare",
+      "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-23T14:00:00.000Z",
+      "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=383778",
+      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
+      "link": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T13:34:13.000Z",
+      "summary": "The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383779",
+      "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+      "link": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T13:25:35.000Z",
+      "summary": "Michael Saylor's firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383775",
+      "title": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
+      "link": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T13:08:23.000Z",
+      "summary": "Investigators say \"decentralized\" casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383762",
+      "title": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
+      "link": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T12:43:30.000Z",
+      "summary": "A meme coin honoring the Cincinnati Zoo's late pygmy hippo has sent its creator rewards to the zoo's nonprofit.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383758",
+      "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
+      "link": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-23T11:14:22.000Z",
+      "summary": "Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "title": "datasette-charts 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-23T00:37:20.000Z",
+      "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It looks like this: The new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several dif",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "title": "Select Styling Specimens",
+      "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-22T19:45:06.000Z",
+      "summary": "Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser A",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=383743",
+      "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+      "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-22T14:01:02.000Z",
+      "summary": "Google’s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/21/muru/",
+      "title": "Muru",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-21T23:56:28.000Z",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account of ",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=383756",
+      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+      "link": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-21T18:01:02.000Z",
+      "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383752",
+      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-21T17:01:02.000Z",
+      "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+      "title": "EP234: Docker vs Kubernetes",
+      "link": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-21T16:31:20.000Z",
+      "summary": "Which one should we use?",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=383750",
+      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+      "link": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-21T16:01:02.000Z",
+      "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
+      "importance": "important"
+    },
+    {
+      "id": "01M7X91JJQ5CWGQ65DZBAHW4Q9",
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-20T20:24:38.000Z",
+      "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+      "importance": "medium"
+    },
+    {
+      "id": "01M7X76K1JK00SF9K4YN83WANQ",
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-20T20:00:45.000Z",
+      "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "title": "Quoting Ravi Vakil",
+      "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-20T19:21:49.000Z",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems ",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "title": "Quoting Levent Alpöge",
+      "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-20T16:30:48.000Z",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principa",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "title": "llm-gemini 0.38.1",
+      "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-20T03:01:57.000Z",
+      "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at ",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "title": "Token fraud is here and it’s BAD (YouTube)",
+      "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-20T02:49:57.000Z",
+      "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the produc",
+      "importance": "important"
+    },
+    {
+      "id": "01M7V6MST3Z48AB8DBH1WGS8EX",
+      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "link": "https://blog.cloudflare.com/nginx2root/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-20T01:58:29.000Z",
+      "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "title": "PostgreSQL 19 Released",
+      "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-19T20:43:57.000Z",
+      "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, Postgr",
+      "importance": "important"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-19T17:08:59.000Z",
+      "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
+      "title": "The Invisible Systems: What Happens Between Services",
+      "link": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-19T16:30:47.000Z",
+      "summary": "When you draw a system architecture diagram, services are often shown as boxes, and arrows between them show the communication pathways.",
+      "importance": "medium"
+    },
+    {
+      "id": "01M7R5N9JG35DGY66ZG3E9RXSW",
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "link": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-19T14:00:00.000Z",
+      "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "title": "llm-gemini 0.38",
+      "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-18T23:59:20.000Z",
+      "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st Decem",
+      "importance": "important"
+    },
+    {
+      "id": "01M7R89D5X67THE8N5T2YSWARZ",
+      "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+      "link": "https://blog.cloudflare.com/open-clairic/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-18T22:00:00.000Z",
+      "summary": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models.",
+      "importance": "important"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "title": "Software factories and code reviews with Harjot Gill",
+      "link": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-18T18:08:52.000Z",
+      "summary": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "title": "datasette-arrows 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-18T17:09:59.000Z",
+      "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. The register_output_renderer() plugin hook can now be used to implement",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/evals-for-ai-engineers",
+      "title": "Evals for AI Engineers",
+      "link": "https://blog.bytebytego.com/p/evals-for-ai-engineers",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-18T16:31:02.000Z",
+      "summary": "In today’s issue, we’re featuring an excerpt that introduces the Three Gulfs of LLM Application Development.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "title": "Quoting Daniel Stenberg",
+      "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-18T15:58:27.000Z",
+      "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we have done another 20",
+      "importance": "important"
+    },
+    {
+      "id": "01M7QERD06VJ8ESJENBCYJESX5",
+      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+      "link": "https://blog.cloudflare.com/java4shell-waf-protection/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-18T14:52:10.000Z",
+      "summary": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtimes now.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "title": "The PSF end-of-year fundraiser",
+      "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-18T14:44:48.000Z",
+      "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports commu",
+      "importance": "important"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/11/18/workload-mix",
+      "title": "Traffic mix matters",
+      "link": "http://brooker.co.za/blog/2026/11/18/workload-mix.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-11-18T00:00:00.000Z",
+      "summary": "Traffic mix matters Wanna listen to my mixtape? The preliminary report on last week’s M365 outage contains one statement that really caught my eye: Our normal load testing did not detect the latent issue because [of] the traffic mix and SKUs used in our labs. There’s a lot going on in this report (as there is in any report for a complex system), but I wanted to zoom in on this one issue: traffic m",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "title": "External sandboxes for coding agents",
+      "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-17T22:52:29.000Z",
+      "summary": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on th",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+      "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-17T22:38:52.000Z",
+      "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as ",
+      "importance": "important"
+    },
+    {
+      "id": "01M7NJA4ESQ31MDVBT2RBP1ZHX",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-17T20:24:27.000Z",
+      "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-17T16:48:33.000Z",
+      "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to brow",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
+      "title": "Why Thinking More Can Make an LLM Dumb",
+      "link": "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-17T16:31:11.000Z",
+      "summary": "In this article, we’ll try to understand why thinking longer can make an LLM dumber.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+      "title": "Inference engineering for software engineers",
+      "link": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-17T16:11:23.000Z",
+      "summary": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "title": "Quoting Go Proverbs",
+      "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-17T06:16:26.000Z",
+      "summary": "A little copying is better than a little dependency. &mdash; Go Proverbs , via Tags: go , programming",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/16/llm/",
+      "title": "llm 0.37.3",
+      "link": "https://simonwillison.net/2026/Nov/16/llm/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-16T23:57:26.000Z",
+      "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this: {\"a\":",
+      "importance": "important"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "link": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-11-16T20:32:28.000Z",
+      "summary": "Hello you fine Internet folks,",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
+      "title": "How Instacart Uses LLMs to Make People Buy More",
+      "link": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-16T16:30:56.000Z",
+      "summary": "In this article, we’ll look at how Instacart used LLMs to build a product search that could accurately understand a user’s shopping intention.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "link": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-11-16T14:01:15.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are getting good at sub-contracting to make themselves better:…AI can now productively spend money to improve itself…Researchers have developed FrontierML, a benchmark “that measures […]",
+      "importance": "important"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "title": "Software engineering after code becomes cheap with Satya Nadella",
+      "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-16T13:33:48.000Z",
+      "summary": "Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers.",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/11/16/understanding",
+      "title": "What does it mean to understand what we built?",
+      "link": "http://brooker.co.za/blog/2026/11/16/understanding.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-11-16T00:00:00.000Z",
+      "summary": "What does it mean to understand what we built? Let's try come to an understanding. Today, a couple of people sent me the No AI Slop Manifesto. I found it interesting, in part, because it touches on something that seems super important right now: understanding. Through this work, we have come to value: … Understanding over speed I fully agree with that as a pithy statement, but I think we are worki",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "title": "datasette-maplibre 0.1a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-15T23:58:36.000Z",
+      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "title": "datasette 1.0a43",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-15T23:20:27.000Z",
+      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "title": "datasette 0.65.6",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-15T23:18:17.000Z",
+      "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...] Tags: security , datasette",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
+      "title": "LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals",
+      "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-15T22:15:41.000Z",
+      "summary": "decision time",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "title": "datasette-apps 0.4a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-15T04:02:45.000Z",
+      "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "title": "datasette-agent 0.6a0",
+      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-15T03:49:47.000Z",
+      "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "title": "datasette-llm 0.1a11",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-14T23:59:28.000Z",
+      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "title": "datasette-vega 0.7",
+      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-14T17:09:09.000Z",
+      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript ",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+      "title": "EP233: Kubernetes Explained for Busy Engineers",
+      "link": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-14T16:30:57.000Z",
+      "summary": "Kubernetes is an orchestration platform that manages the deployment and maintenance of containerized applications, particularly on multiple machines.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "title": "datasette-cluster-map 0.19",
+      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-13T23:02:45.000Z",
+      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&amp;E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial ",
+      "importance": "important"
+    },
+    {
+      "id": "01M7B8MAKWAA44XACM7ZT7P4NN",
+      "title": "Kitesurf is now open source",
+      "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-13T20:20:21.000Z",
+      "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
+      "importance": "medium"
+    },
+    {
+      "id": "01M7B3YSRJB0B2GD4ZN00Q227F",
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-13T19:26:07.000Z",
+      "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
+      "title": "Free Live Masterclass: Building AI Agents That Work in the Real World",
+      "link": "https://blog.bytebytego.com/p/free-live-masterclass-building-ai",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-13T17:04:49.000Z",
+      "summary": "An agent needs context to make decisions, tools to take action, guardrails to stay within bounds, and checks to verify the results.",
+      "importance": "medium"
+    },
+    {
+      "id": "01M7950HA1NFDM7V5HW3AMZ0SB",
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "link": "https://blog.cloudflare.com/spend-management/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-13T14:00:00.000Z",
+      "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "title": "The Pulse: What can we learn from the Railway hack?",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-12T18:53:19.000Z",
+      "summary": "Also: native mobile and frontend jobs are disappearing, how trust helps an “AI-native” engineering team to succeed, Carta starts selling a coding harness, and more",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+      "title": "Top Types of Hidden Coupling and How to Deal With Them",
+      "link": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-12T16:30:41.000Z",
+      "summary": "When you create an architecture diagram, you usually try to show the services, databases, queues, and the connections between these different components.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-11-11T22:22:57.000Z",
+      "summary": "Hello you fine Internet folks,",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+      "title": "LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems",
+      "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-11T19:58:17.000Z",
+      "summary": "Enrollment closes in 24 hours for Build Production Grade AI Systems. We kick off tomorrow, November 12, at 5pm PT.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
+      "title": "The Roundup by ByteByteGo",
+      "link": "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-11T16:30:53.000Z",
+      "summary": "The Roundup covers insights and trends from the world of software development.",
+      "importance": "small"
+    },
+    {
+      "id": "01M742VWRK37TPYYPMXERSCWKN",
+      "title": "Choosing QuePaxa, an unusual consensus algorithm",
+      "link": "https://blog.cloudflare.com/choosing-quepaxa/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-11T14:24:46.000Z",
+      "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "title": "AMD’s Zen 6 Family: Feeding the Beast",
+      "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-11-10T17:00:10.000Z",
+      "summary": "Hello you fine Internet folks,",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+      "title": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
+      "link": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-10T16:30:55.000Z",
+      "summary": "In this article, we’ll look at how this porting was done and the learnings along the way.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "title": "Software correctness & supply chain security, with Sean Allen",
+      "link": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-10T15:00:21.000Z",
+      "summary": "A deep conversation on the biggest challenges of developing with AI – while trying not to mention the phrase “AI” once. Why? To dig up the fundamentals that are as important as ever",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
+      "title": "How LinkedIn Uses AI to Review 40,000 Pull Requests a Week",
+      "link": "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-09T16:30:44.000Z",
+      "summary": "Most of its reviews are posted before the first human reviewer even opens the PR",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
+      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "link": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-11-09T13:31:34.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI Science startup converts a quantum conjecture into a theorem:…An evocative taste of the singularity…In the same way a few years ago it went from remarkable […]",
+      "importance": "important"
+    },
+    {
+      "id": "01M6SMASVYY5EVPJPHFF7WNPFG",
+      "title": "Launching the Vite Ecosystem Fund",
+      "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-09T13:00:00.000Z",
+      "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare.",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
+      "title": "EP232: 6 Frequently Used Orchestration Frameworks in an AI system",
+      "link": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-07T16:30:58.000Z",
+      "summary": "Orchestration in an AI system manages tasks across agents, handles failures, shared memory and context.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+      "title": "The Pragmatic Summit 2027",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-06T19:39:15.000Z",
+      "summary": "The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027",
+      "importance": "medium"
+    },
+    {
+      "id": "01M6PDR60R01B25PZF6REB72W3",
+      "title": "The post-quantum future of web privacy",
+      "link": "https://blog.cloudflare.com/vole-mole/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-06T14:00:00.000Z",
+      "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+      "importance": "medium"
+    },
+    {
+      "id": "01M6HXVSQY6XGPSH12AFMB81B9",
+      "title": "Agents aren’t humans (but they kinda are)",
+      "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-05T17:03:04.000Z",
+      "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated traffic.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+      "title": "The Hidden Work Behind Every Database Request",
+      "link": "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-05T16:31:07.000Z",
+      "summary": "Read amplification, write amplification, and space amplification show the differences between logical work and physical cost.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+      "title": "Scaling Slack and GitHub with Maude Lemaire",
+      "link": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-05T15:58:00.000Z",
+      "summary": "Maude Lemaire shares lessons from scaling Slack and GitHub, improving performance at Cursor, and using AI while keeping engineering judgment in human hands.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
+      "title": "How Anthropic Redesigned Source Control",
+      "link": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-04T16:30:59.000Z",
+      "summary": "In this article, we’ll look at the architecture behind Scion.",
+      "importance": "medium"
+    },
+    {
+      "id": "01M6HZ245M2MBZAF7ZQXKC85X6",
+      "title": "See the agents, set the terms: New visibility and control for personal agents",
+      "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-04T14:00:00.000Z",
+      "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "title": "How software engineering is changing: a tale of two eras",
+      "link": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-03T16:58:22.000Z",
+      "summary": "We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we’re sharing the winning piece from a strong set of entries",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
+      "title": "How Netflix Uses AI Agents for Performance Engineering",
+      "link": "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-03T16:31:10.000Z",
+      "summary": "The Netflix engineering team has developed an autonomous performance agent system. In this article, we’ll be learning more about it.",
+      "importance": "medium"
+    },
+    {
+      "id": "01M6GJ3RNQ17SDPWXJVW49JAFW",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "link": "https://blog.cloudflare.com/zero-wire/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-03T14:00:00.000Z",
+      "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+      "importance": "important"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22451",
+      "title": "Snap Gets Its RAND Trial Against Dolby and Access Advance. Five Issues to Watch",
+      "link": "https://streaminglearningcenter.com/articles/snap-gets-its-rand-trial-against-dolby-and-access-advance-five-issues-to-watch.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-11-02T22:14:46.000Z",
+      "summary": "You may have heard about a recent decision in Snap’s UK licensing dispute with Dolby and Access Advance. Here’s what you need to know. Background Dolby sued Snap for HEVC and AV1 patent infringement in Delaware and Rio de Janeiro on March 23, 2026, seeking damages and injunctions. Other VDP Pool licensors followed with suits … The post Snap Gets Its RAND Trial Against Dolby and Access Advance. Fiv",
+      "importance": "medium"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
+      "title": "How Nvidia's New Nemotron Model Works",
+      "link": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-02T16:31:02.000Z",
+      "summary": "In this article, we’ll look at how Nemotron works and the various techniques used by Nvidia while building it.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "link": "https://jack-clark.net/2026/11/02/import-ai-479-spacewar-low-latency-tasks-versus-llms-genie-4/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-11-02T14:30:54.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now LLMs are very bad at low-latency tasks:…Realtime-Bench says it’ll be a while till AI systems can play games or do online auctions for you…Researchers have built […]",
+      "importance": "important"
+    },
+    {
+      "id": "01M5J4YTFMTRT7PG1Y8HAPNPYG",
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-02T14:00:00.000Z",
+      "summary": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/astra-testing/",
+      "title": "Test/verification technique effectiveness with Astra",
+      "link": "https://danluu.com/astra-testing/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-11-02T00:00:00.000Z",
+      "summary": "When we looked at how well agents used test/verification techniques in August1, we saw that GPT-5.6 Sol generally did what you might call a caricature of various techniques when asked to use a technique or library such as TDD, QuickCheck, Lean 4, etc.; not specifying any particular test method (which we'll call Default) resulted in many worthless unit tests, which was one of the best performing co",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
+      "title": "EP231: AI Terms You Need to Know",
+      "link": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-10-31T15:31:08.000Z",
+      "summary": "What else should be on the list?",
+      "importance": "medium"
+    },
+    {
+      "id": "01M66XYRNK559YY01V2P37EBD7",
+      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+      "link": "https://blog.cloudflare.com/emudhra-patching/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-10-30T17:38:50.000Z",
+      "summary": "Four, just four: that’s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here’s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed.",
+      "importance": "important"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+      "title": "The Pulse: Anthropic kills the coding interview",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-30T16:37:51.000Z",
+      "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io’s AI spend, Microsoft’s exit offer to engineers, and more",
+      "importance": "medium"
+    },
+    {
+      "id": "01M64V2TDYZYSS8RE60T3MWKSM",
+      "title": "Cloudflare services for private origins is now generally available",
+      "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-10-30T14:23:43.000Z",
+      "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+      "title": "Software engineering at Google & CS education with Titus Winters",
+      "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-29T13:37:13.000Z",
+      "summary": "Titus Winters shares lessons from engineering at Google’s scale and explores how AI is reshaping developer productivity and computer science education.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+      "link": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-27T16:19:22.000Z",
+      "summary": "“AI SRE” is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
+      "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "link": "https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-10-26T12:31:52.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now How math could help alignment:…What the “industrialization of mathematics” means for safety…AI safety startup Resolution (formerly known as Sequent, Import AI 461) has published work on […]",
+      "importance": "important"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
+      "title": "“Performance” Oryon: Qualcomm’s Little Core",
+      "link": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-10-24T23:13:33.000Z",
+      "summary": "Qualcomm’s Snapdragon X2 Elite uses a hybrid core setup, breaking away from the all-big-core strategy that the company previously used with in-house core designs.",
+      "importance": "important"
+    },
+    {
+      "id": "https://danluu.com/ambitious/",
+      "title": "“We should be more ambitious with the software we build”",
+      "link": "https://danluu.com/ambitious/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-10-24T00:00:00.000Z",
+      "summary": "Since early this year, Michael Malis (of pgrust) has been showing me interesting things he's done and saying [W]e should be more ambitious1 with the software we build There is, understandably, a lot of skepticism about projects like pgrust because there are so many low-quality AI-generated projects out there. If I didn't know Malis and didn't look into it, I would just assume that pgrust was anoth",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/10/23/animations",
+      "title": "Animations for System Builders: Metastability and Lost Writes",
+      "link": "http://brooker.co.za/blog/2026/10/23/animations.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-10-23T00:00:00.000Z",
+      "summary": "Animations for System Builders: Metastability and Lost Writes Pretty pictures help us learn, maybe? One of the things I love using LLMs for is helping me understand systems better. In the Strands Decider post I wrote about how I often ask ask me questions to check I understand this. The other technique I’m enjoying right now, and am delighted to see folks around me using too, is building animation",
+      "importance": "medium"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22419",
+      "title": "Optimizing x265 with FFmpeg",
+      "link": "https://streaminglearningcenter.com/articles/is-hevc-worth-the-royalties.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-10-22T19:41:29.000Z",
+      "summary": "If you distribute 4K or HDR video, HEVC is a must-have, not a nice-to-have. That’s the format the TVs and devices that play 4K HDR expect, and H.264 isn’t a realistic alternative. But what if you’re distributing 1080p SDR video? In this case, H.264 plays everywhere, and HEVC has to earn its place. And HEVC … The post Optimizing x265 with FFmpeg first appeared on Streaming Learning Center.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "title": "The Pulse: Time to rethink software security because of AI?",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-22T14:08:21.000Z",
+      "summary": "A month’s worth of security breaches in a single day – will things get worse before they improve? Also: Anthropic accused of version control “rip off”, and more",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "title": "The revised rules of engineering management with Will Larson",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-21T16:58:21.000Z",
+      "summary": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "title": "What’s the ROI of software engineers’ spending on AI?",
+      "link": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-20T17:34:18.000Z",
+      "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies – with some interesting findings",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/nvidia-veras-system-architecture",
+      "title": "Nvidia Vera’s System Architecture: Pushing Bandwidth",
+      "link": "https://chipsandcheese.com/p/nvidia-veras-system-architecture",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-10-19T18:26:50.000Z",
+      "summary": "Nvidia’s Vera server chip aims for high per-core performance.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
+      "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "link": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-10-19T12:31:37.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Here’s a speech I gave on Saturday the 17th of October at the IMF meeting in Bangkok. This speech is inspired by the megatrend readers have […]",
+      "importance": "important"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "title": "The Pulse: OpenAI software engineer accused of spying",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-15T16:55:18.000Z",
+      "summary": "Also: insider details on how and why Anthropic moved off Git, a new trend of AI-assisted coding rounds inside of Big Tech, and more",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "title": "Uber’s AI infra, from the inside",
+      "link": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-14T17:06:56.000Z",
+      "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
+      "title": "Building resilient AI-powered software, and planning for when things go wrong",
+      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-13T16:03:33.000Z",
+      "summary": "How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "link": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-10-12T12:30:39.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual reasoning:…Humanity’s Sixth Sense highlights some shortcomings of current AI systems…AI startups Elorian and Scale AI have built […]",
+      "importance": "important"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22364",
+      "title": "When Will AV2 and VVC Be Worth Deploying?",
+      "link": "https://streaminglearningcenter.com/articles/when-will-av2-and-vvc-be-worth-deploying.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-10-08T18:48:25.000Z",
+      "summary": "Consider this beta version 0.9 of my algorithmic view of how codec markets are penetrated. There are lots of assumptions that I’ve tried to document in the readme tab of the Excel file you can download below. I assume there will be errors in both math and assumptions. If you find one, please contact me … The post When Will AV2 and VVC Be Worth Deploying? first appeared on Streaming Learning Center",
+      "importance": "medium"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-08T16:55:51.000Z",
+      "summary": "Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
+      "importance": "important"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "title": "Building resilient systems with Sam Newman",
+      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-10-07T17:19:58.000Z",
+      "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/nvidias-olympus-core-pushing-server",
+      "title": "NVIDIA’s Olympus Core: Pushing Server Single Threaded Performance Boundaries",
+      "link": "https://chipsandcheese.com/p/nvidias-olympus-core-pushing-server",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-10-05T22:49:26.000Z",
+      "summary": "Server chips traditionally offered less single threaded performance than contemporary client parts.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "link": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-10-05T12:32:30.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How does swarm scaling work?…Toby Ord has a nice, short post about how to think about […]",
+      "importance": "important"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/10/04/encoders",
+      "title": "Strands Decider: Why Not an Encoder?",
+      "link": "http://brooker.co.za/blog/2026/10/04/encoders.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-10-04T00:00:00.000Z",
+      "summary": "Strands Decider: Why Not an Encoder? Expertise level: exhausted. As I admitted in my last post, I am very much not an expert model developer. What follows is likely to be, at least partially, inaccurate. I have tried to be careful and quantitative, to partially balance a lack of deep expertise. Since we launched strands-decider-2B last week, a couple of people have asked me why it’s a modified LLM",
+      "importance": "important"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22354",
+      "title": "Why CDN77 Chose NETINT Quadra for Large-Scale Live Transcoding",
+      "link": "https://streaminglearningcenter.com/articles/why-cdn77-chose-netint-quadra-for-large-scale-live-transcoding.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-09-29T18:36:09.000Z",
+      "summary": "While visiting Prague before IBC 2026, I sat down with Michal Hošna, a Media Systems Architect at CDN77. We discussed CDN77’s recent decision to purchase a few thousand NETINT Quadra T1U transcoders for large-scale live production, primarily for social media clients that run tens of thousands of live streams in parallel. You can watch the … The post Why CDN77 Chose NETINT Quadra for Large-Scale Li",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/qualcomms-system-level-architecture",
+      "title": "Qualcomm’s System Level Architecture in the Snapdragon X2 Elite",
+      "link": "https://chipsandcheese.com/p/qualcomms-system-level-architecture",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-09-29T16:07:30.000Z",
+      "summary": "Laptop chips have gotten very powerful in recent years, with increasing CPU core counts, more powerful iGPUs, and higher DRAM bandwidth to feed that compute.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "link": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-09-28T12:32:03.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and machines as their interfaces, Michael Levin asks:…A mind-bending paper asking us to reconsider basic assumptions about […]",
+      "importance": "important"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/09/28/engineering-system-one",
+      "title": "Small Decisions: Engineering a Leading Model",
+      "link": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-09-28T00:00:00.000Z",
+      "summary": "Small Decisions: Engineering a Leading Model Or trying to, at least. Update: An evolved version of the model described here is now available as part of Strands. Check out strands-decider on github and HuggingFace. My day job has been primarily in AI for three years now, but I’d be the first to admit that’s been almost entirely in one corner of AI: infrastructure, safety, and tools for AI agents. T",
+      "importance": "medium"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22289",
+      "title": "Optimizing x264 Settings and Per-title ladders",
+      "link": "https://streaminglearningcenter.com/articles/optimizing-x264-settings-and-per-title-ladders.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-09-25T19:35:28.000Z",
+      "summary": "If you’re producing solely H.264-encoded video, optimizing your encodes can save you bandwidth costs and deliver a higher quality experience to your viewers. If you’re considering adding HEVC or AV1 to the mix, you have another reason. Before you attempt to compute the bandwidth savings and quality improvements these codecs deliver, you should know just … The post Optimizing x264 Settings and Per-",
+      "importance": "medium"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22274",
+      "title": "Media over QUIC (MoQ), What It Takes to Deploy It, and When It Matters (From CDN77)",
+      "link": "https://streaminglearningcenter.com/articles/media-over-quic-moq-explained-by-cdn77-whos-building-it.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-09-24T01:36:58.000Z",
+      "summary": "The IETF’s MoQ Transport draft is on its 21th version. According to Michal Hošna of CDN77, who I interviewed in Prague before IBC 2026, the working group has been predicting completion “in six months” for two years. He now hopes for something final by the end of this year. CDN77 expects to launch a public … The post Media over QUIC (MoQ), What It Takes to Deploy It, and When It Matters (From CDN77",
+      "importance": "important"
+    },
+    {
+      "id": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "link": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "source": "Import AI",
+      "weight": 2,
+      "date": "2026-09-21T12:31:04.000Z",
+      "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all options open:…It’s not clear exactly what is optimal, so the US should spend […]",
+      "importance": "important"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22251",
+      "title": "VVC On The Rise",
+      "link": "https://streaminglearningcenter.com/articles/vvc-on-the-rise.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-09-20T13:20:21.000Z",
+      "summary": "The thing about codec adoption is that years of hard work and development must occur before a single stream gets distributed by an independent publisher. The bottleneck is almost always the decode side, accumulating sufficient compatible players to make the new codec economically viable. One study, titled Spotlight on HEVC: The codec of choice for … The post VVC On The Rise first appeared on Strea",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/qualcomms-adreno-x2-gpu",
+      "title": "Qualcomm’s Adreno X2 GPU",
+      "link": "https://chipsandcheese.com/p/qualcomms-adreno-x2-gpu",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-09-19T18:03:20.000Z",
+      "summary": "Integrated GPUs have become a crucial component in recent laptop chips, thanks to a push for better graphics performance in ultraportable devices.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/brain-off/",
+      "title": "There's no point at which turning your brain off will work",
+      "link": "https://danluu.com/brain-off/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-09-18T00:00:00.000Z",
+      "summary": "In early 2025, I started seeing people turn off their brain as they use LLMs1. They would have an LLM take an action (summarize text, write some code, etc.), and just assume that it worked2. This generally didn't work in early 2025 and the result was often quite silly. As LLMs have gotten better, I've seen more of this. Sometimes, people will try to get the LLM to write some code for them and basi",
+      "importance": "medium"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22220",
+      "title": "Munich FRAND Royalty Guidelines: More Questions than Answers",
+      "link": "https://streaminglearningcenter.com/articles/munich-frand-guidelines-more-questions-than-answers.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-09-14T14:46:16.000Z",
+      "summary": "On August 13, 2026, the 7th Civil Chamber of the Munich I Regional Court issued a 67-page FRAND Guidelines. Although multiple outlets have reported on them, I have not located a public copy of the Guidelines themselves, though I have requested one. In the Guidelines, the court estimated an top-down monthly per-subscriber royalty of €0.63 for … The post Munich FRAND Royalty Guidelines: More Questio",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+      "title": "On Binary Translation and its Consequences",
+      "link": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-09-10T09:46:18.000Z",
+      "summary": "The PC market is one of the toughest areas for a CPU designer to compete in.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22221",
+      "title": "Bitmovin Releases 10th Edition of the Video Developer Report",
+      "link": "https://streaminglearningcenter.com/articles/bitmovin-releases-10th-edition-of-the-video-developer-report.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-09-10T09:12:48.000Z",
+      "summary": "Each year, I write about Bitmovin’s Video Developer Report because it’s one of the few recurring data points available to the streaming industry. It reports survey-based usage and planned usage for codecs, protocols, encoding, player development, QoE, advertising, CDN strategy, and more. I inevitably download it multiple times each year for referencing in some article … The post Bitmovin Releases ",
+      "importance": "important"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/arms-c2-ultra-g2-ultra-nx-and-css",
+      "title": "Arm’s C2-Ultra, G2-Ultra NX, and CSS N4 IP",
+      "link": "https://chipsandcheese.com/p/arms-c2-ultra-g2-ultra-nx-and-css",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-09-08T02:00:00.000Z",
+      "summary": "Editor’s Note (9/8/2026): Arm has reached out to clarify that the maximum IPC increase of the C2-Ultra core over the C1-Ultra core using the parameters shown in the endnotes is 7% along with the memory bandwidth improvement not factoring into the IPC improvement.",
+      "importance": "small"
+    },
+    {
+      "id": "https://danluu.com/agentic-testing/",
+      "title": "How well do agents use test/verification techniques?",
+      "link": "https://danluu.com/agentic-testing/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-09-07T00:00:00.000Z",
+      "summary": "We previously noted that, while it's easier than ever to hit a particular quality bar by having coding agents use effective test techniques, software quality seems to be getting worse, indicating that whatever defaults developers are using may not work very well. Here, we test if simple instructions to agents to use particular techniques or libraries improve implementation correctness, as a kind o",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/zitron/",
+      "title": "Ed Zitron's AI prediction track record",
+      "link": "https://danluu.com/zitron/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-09-01T00:00:00.000Z",
+      "summary": "I was curious how well the predictions of the most widely cited AI skeptic I've seen (Ed Zitron) have done, so I looked at how his predictions panned out. To disclose my own biases, I've never had a particularly strong pro or anti AI progress position. For example, in 2022, I did a comprehensive look at predictions Futurists made, including well-respected folks like Kurzweil and found them to be g",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms",
+      "title": "Hot Chips 2026: Interviewing IBM's Christian Zoellin & Christian Jacobi",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-30T17:31:05.000Z",
+      "summary": "Hello you fine Internet folks,",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "title": "Hot Chips 2026: XCENA and Samsung’s Near-Memory Compute CXL Device",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-30T07:25:37.000Z",
+      "summary": "CXL memory expansion, with a side of compute",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/bug-blind/",
+      "title": "Bug blindness",
+      "link": "https://danluu.com/bug-blind/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-08-30T00:00:00.000Z",
+      "summary": "I used to wonder why I see so many more bugs than most people. I easily observe hundreds to thousands of bugs per week and nothing seems to work, but most people I talk to don't see anything like this. For a long time, I thought this had something to do with how I use computers but, over time, I've realized that it's mostly that people are hitting the same bugs and don't notice. If you're not a pr",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "title": "Hot Chips 2026: Samsung’s Processing-in-Memory (PIM)",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-29T05:36:33.000Z",
+      "summary": "In-memory compute with LPDDR5X",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-intels-crescent-island",
+      "title": "Hot Chips 2026: Intel’s Crescent Island",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-intels-crescent-island",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-27T05:12:31.000Z",
+      "summary": "Hello you fine Internet folks,",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-fujitsus-monaka-cpu",
+      "title": "Hot Chips 2026: Fujitsu’s Monaka CPU",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-fujitsus-monaka-cpu",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-26T01:20:30.000Z",
+      "summary": "Building on a long history of HPC-focused cores, and looking beyond HPC",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-intels-diamond-rapids",
+      "title": "Hot Chips 2026: Intel’s Diamond Rapids",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-intels-diamond-rapids",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-25T06:20:03.000Z",
+      "summary": "Hello you fine Internet folks,",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "title": "SiFive’s First Server Platform",
+      "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-25T01:48:39.000Z",
+      "summary": "Hello you fine Internet folks,",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-intels-wildcat-lake",
+      "title": "Hot Chips 2026: Intel’s Wildcat Lake",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-intels-wildcat-lake",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-24T19:50:30.000Z",
+      "summary": "All about making things affordable",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+      "title": "Hot Chips 2026: CUDA Targets RISC-V",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-24T16:49:25.000Z",
+      "summary": "CUDA is the most important software framework in the GPU compute world, and Nvidia is looking at supporting CUDA on RISC-V. Terms and conditions may apply.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+      "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-08-23T22:51:05.000Z",
+      "summary": "Machine learning workloads have an insatiable appetite for DRAM capacity. Flash memory is cheaper per gigabyte of capacity than DRAM. Could it offer a way out?",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/no-slow/",
+      "title": "There's no reason for software to be slow anymore",
+      "link": "https://danluu.com/no-slow/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-08-21T00:00:00.000Z",
+      "summary": "The other day, I saw a viral tweet saying that people talking about how LLMs are causing slow, bloated, code are going to eat crow once they re-write everything in super-optimized assembly. We're not quite at the point where we want to write everything in assembly, but some variant of what Nolan Lawson said about testing, you can choose how many bugs you want now, which I less eloquently noted her",
+      "importance": "medium"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22180",
+      "title": "Munich Court Proposes €1.05 Monthly Codec Royalty for Netflix Premium Subscribers",
+      "link": "https://streaminglearningcenter.com/articles/munich-court-proposes-e1-05-monthly-codec-royalty-for-netflix-premium-subscribers.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-08-20T19:14:06.000Z",
+      "summary": "The 7th Civil Chamber of the Munich I Regional Court just published detailed FRAND guidelines addressing standard-essential patent licensing. The guidelines include an analysis of how the court might calculate video codec royalties for streaming services, with Netflix and Disney+ as examples. This was not a decision involving either company. In fact, the court noted … The post Munich Court Propose",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/benchpocalypse/",
+      "title": "The benchmarkpocalypse",
+      "link": "https://danluu.com/benchpocalypse/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-08-17T00:00:00.000Z",
+      "summary": "There's been a lot of talk about the vulnpocalypse, to which I don't have much to add because I'm not a security person, but I haven't seen much discussion on the closely related (and to be fair, less serious, issue), the benchmarkpocalypse. While it's become easier than ever to make serious performance gains, it's also become easier than ever to reward hack a benchmark and make fake performance g",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/pl-tokens/",
+      "title": "How does programming language affect token efficiency and correctness?",
+      "link": "https://danluu.com/pl-tokens/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-08-09T00:00:00.000Z",
+      "summary": "This somewhat widely cited post (I keep seeing it cited, anyway) suggests that dynamic languages and/or languages that represent things more concisely are more token efficient. It seems to be cited enough that LLM search results agree. For example, when I searched for \"dynamic vs static language token cost\" (no quotes), Google's AI summary opened with Dynamically typed languages generally have a l",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/07/29/lorenz-and-little",
+      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+      "link": "http://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-07-29T00:00:00.000Z",
+      "summary": "Lorenz and Little: How Much Does Your Tail Cost? Lorenz and Little sounds like hipster burger bar from 2015. MathJax = { tex: {inlineMath: [['\\\\(', '\\\\)'], ['$', '$']]} }; It’s time for Marc’s Amateur Statistics Corner! Today: why I pay a lot of attention to tail latency when optimizing cost. I’ve written before on the importance of tail latency for customer experience (e.g. in 2026, 2021, and 202",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/172",
+      "title": "The real AI risk is inside the labs",
+      "link": "\nhttp://antirez.com/news/172\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-07-28T09:00:11.000Z",
+      "summary": "Amodei in his latest blog post wrote a mix of agreeable things and things that I believe misrepresent where the real risk of AI is located. I want to focus my attention on why, among all the risks, open weight models constitute the mildest one. I write these words as a person who strongly believes AI may be very dangerous in the near future: 1. Exactly like what happened during the OpenAI / HF inc",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/171",
+      "title": "Being Linux Torvalds",
+      "link": "\nhttp://antirez.com/news/171\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-07-25T11:20:55.000Z",
+      "summary": "(This blog post was adapted from the transcription obtained from my YouTube video at https://www.youtube.com/watch?v=l6lxgYeVZqs) When Linus Torvalds developed the first Linux kernel, he had studied the Minix sources, he had studied computer architecture, he had the base knowledge needed, and he was obviously a very brilliant programmer. But that operation of writing a minimal yet working Unix ker",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/exercise-7/",
+      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+      "link": "https://danluu.com/exercise-7/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-07-23T00:00:00.000Z",
+      "summary": "We're going to look at three different kinds of benchmarks, one set of calculations for baseline numbers for performance \"napkin math\" estimates, one set of AI model evals, and one on car tires. To build my intuition for things, I like thinking about them before seeing the explanation, so these are presented with the benchmark information first and the explanation later in case you want to think a",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/170",
+      "title": "Not just development, distribution of software may change as well",
+      "link": "\nhttp://antirez.com/news/170\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-07-22T14:52:39.000Z",
+      "summary": "Even if you are as averse to semver as I used to be in the course of my programming activity, you can still think of open source software distribution as something that used to follow a fixed number of steps. There is a branch where developments happen, and this branch oftentimes happens to be not really ready for reliable work. Then you freeze the developments for a certain amount of time (even i",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/07/19/dsql-paper",
+      "title": "Aurora DSQL: Scalable, Multi-Region OLTP",
+      "link": "http://brooker.co.za/blog/2026/07/19/dsql-paper.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-07-19T00:00:00.000Z",
+      "summary": "Aurora DSQL: Scalable, Multi-Region OLTP A paper! Our new paper, Aurora DSQL: Scalable, Multi-Region OLTP, is now available on Arxiv. I’m excited about this one: it’s a fully end-to-end look at how Aurora DSQL works, from query processing, to transactions, to replication, to the control plane. We’ve shared most of this content before in other forms, on this blog, on Marc Bowes’ Blog, Werner’s Blog",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/169",
+      "title": "Control the ideas, not the code",
+      "link": "\nhttp://antirez.com/news/169\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-07-13T11:39:52.000Z",
+      "summary": "Look at the past history of this blog. There are many blog posts about programming with AI, a few of them date back to January 2024 (like this: https://antirez.com/news/140). I’m a relatively well regarded programmer, after all. I don’t have the need to still be in the “loop” as a old man that seeks for relevance, I recently rejoined Redis, and now I also am developing a new open source software f",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/ai-coding/",
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding from Galapagos Island",
+      "link": "https://danluu.com/ai-coding/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2026-07-03T00:00:00.000Z",
+      "summary": "I've been using AI fairly heavily since last November and the whole thing is a funny experience. An agent will do something that, if a human did it, you'd immediately fire them. My reaction, of course, is to act as if this is great and spin up a thousand agents so they can do even more of that. Mid-last year, I had GPT (maybe 5.0 or 5.1) try to find the source of a bug. Naturally, this code didn't",
+      "importance": "important"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/06/19/waiting",
+      "title": "Meet Alice. Alice is impatient.",
+      "link": "http://brooker.co.za/blog/2026/06/19/waiting.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-06-19T00:00:00.000Z",
+      "summary": "Meet Alice. Alice is impatient. What do you mean? MathJax = { tex: {inlineMath: [['\\\\(', '\\\\)'], ['$', '$']]} }; Meet Alice. Alice uses your web service. Alice, like most humans, measures her time in seconds and minutes. Alice says your service is slow. You tell Alice that the mean request to your service completes in 100ms, but Alice says that her mean wait time is 1s. You’re both right. Meet Ale",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/06/18/my-blog-and-ai",
+      "title": "Is this blog written by AI?",
+      "link": "http://brooker.co.za/blog/2026/06/18/my-blog-and-ai.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-06-18T00:00:00.000Z",
+      "summary": "Is this blog written by AI? No. None of the human-readable text on this blog is written by AI, and I have no plans to change that. The weird grammar, incorrect assumptions, spelling errors, and annoying tics are all mine. Including the em dashes. I don’t use LLMs for writing. On this blog, or in my professional life. I use agents extensively for brainstorming, research, summarizing, checking facts",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/168",
+      "title": "A new era for software testing",
+      "link": "\nhttp://antirez.com/news/168\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-06-07T09:46:06.000Z",
+      "summary": "Automatic programming dramatically speeds up writing software in certain use cases and in the right hands. In my experience the output does not reach the structural quality and economy of complexity of the best hand-written software. However, not all the software is stellar, and my feeling is that automatic programming surpasses most of the times (and if well managed) the quality of decently devel",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/167",
+      "title": "Distributing LLM inference in DwarfStar",
+      "link": "\nhttp://antirez.com/news/167\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-05-25T14:54:59.000Z",
+      "summary": "High end NVIDIA cards, and the server and power needed to run them, cost a lot of money, especially if you plan to reach enough VRAM to run massive models. The alternative, so far, has been Apple hardware, or the DGX Spark that, even if severely limited because of memory bandwidth, still allows to run LLMs prompt processing (prefill) fast enough. The Mac Studio provided up to 512GB unified memory,",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/05/20/hypothesis",
+      "title": "Agentic software development hypothesis",
+      "link": "http://brooker.co.za/blog/2026/05/20/hypothesis.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-05-20T00:00:00.000Z",
+      "summary": "Agentic software development hypothesis This is the quality content you come here for, right? Agentic Software Development Hypothesis: Weak form: Any coding task for which a complete specification is available will become trivial. Strong form: Any coding task for which a deterministic oracle is available will become trivial. First objection: Few meaningful tasks have a complete specification. Seco",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/166",
+      "title": "Alternatives for the EDIT tool of LLM agents",
+      "link": "\nhttp://antirez.com/news/166\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-05-19T07:26:03.000Z",
+      "summary": "EDIT: of course this was already done in the past! I had little doubts but people just confirmed me about it on Twitter :) But, keep reading: the CRC32 compromise at the end is an interesting tradeoff, and this is a good discussion to have in general. Right now I'm working to an agent for my DS4 project. Local inference is token-poor, it's a battlefield where optimizations count. I was quite surpr",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard",
+      "title": "What's Easy Now? What's Hard Now?",
+      "link": "http://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-05-18T00:00:00.000Z",
+      "summary": "What’s Easy Now? What’s Hard Now? Take it easy. This is the fourth in a series about how AI is changing software development, after It’s time to be right., What about juniors?, and My heuristics are wrong. What now?. It stands alone, but if you found this interesting you may also find those interesting. I’ve been spending a lot of time thinking about the shape of the capabilities of coding agents.",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/165",
+      "title": "A few words on DS4",
+      "link": "\nhttp://antirez.com/news/165\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-05-14T22:22:45.000Z",
+      "summary": "I didn’t expect DwarfStar 4 (https://github.com/antirez/ds4) to become so popular so fast. It is clear that there was a need for single-model integration focused local AI experience, and that a few things happened together: the release of a quasi-frontier model that is large and fast enough to change the game of local inference, and the fact that it works extremely well with an extremely asymmetri",
+      "importance": "important"
+    },
+    {
+      "id": "http://antirez.com/news/164",
+      "title": "Redis array type: short story of a long development",
+      "link": "\nhttp://antirez.com/news/164\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-05-04T14:21:45.000Z",
+      "summary": "I started working on the new Array data type for Redis in the first days of January. The PR landed the repository only now, so this code was cooked for four months. I worked at the implementation kinda part time (kinda because many weeks were actually full time, sometimes to detach yourself from the keyboard is complicated), and even before LLMs the implementation was likely something I could do i",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/04/30/be-right",
+      "title": "It's time to be right.",
+      "link": "http://brooker.co.za/blog/2026/04/30/be-right.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-04-30T00:00:00.000Z",
+      "summary": "It’s time to be right. Outcomes continue to matter. Earlier this week, I spoke at AI Dev 26. This is what I spoke about there. I’ve been making money, in some form, building software for nearly 30 years. The last five months have been the most exciting of that entire time. I’m extremely optimistic about the future of software, and the future of software engineering as a field. But I have a hypothe",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/163",
+      "title": "AI cybersecurity is not proof of work",
+      "link": "\nhttp://antirez.com/news/163\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-04-16T10:46:46.000Z",
+      "summary": "The proof of work is the wrong analogy: finding hash collisions, while exponentially harder with N, is guaranteed to find, with enough work, some S so that H(S) satisfies N, so an asymmetry of resources used will see the side with more \"work ability\" eventually winning. But bugs are different: 1. Different LLMs executions take different branches, but eventually the possible branches based on the c",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/04/09/waterfall-vs-spec",
+      "title": "Spec Driven Development isn't Waterfall",
+      "link": "http://brooker.co.za/blog/2026/04/09/waterfall-vs-spec.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-04-09T00:00:00.000Z",
+      "summary": "Spec Driven Development isn’t Waterfall Write down what you mean. After spending a few months writing (e.g. on the Kiro Blog), and speaking (e.g. Real Python Podcast, SE Radio) about spec-driven development, I’ve noticed a common misconception: spec driven development is a return to a waterfall style of software development. Specification driven development (in Kiro, for example) isn’t about pulli",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/03/25/ic-junior",
+      "title": "What about juniors?",
+      "link": "http://brooker.co.za/blog/2026/03/25/ic-junior.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-03-25T00:00:00.000Z",
+      "summary": "What about juniors? Start at the beginning. Last week I wrote about how the role of the most senior tech ICs has changed. Today, I wanted to share some thoughts on a more difficult topic: how the role of junior software engineers, folks just starting out on their career, has changed or will change. First, the good news. In last week’s post, I wrote this about senior folks: It’s hard to admit where",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/03/20/ic-leadership",
+      "title": "My heuristics are wrong. What now?",
+      "link": "http://brooker.co.za/blog/2026/03/20/ic-leadership.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-03-20T00:00:00.000Z",
+      "summary": "My heuristics are wrong. What now? More words. More meaning? Some people who ask me for advice get a lot of words in reply. Sometimes, those responses aren’t specific to my particular workplace, and so I share them here. In the past, I’ve written about echo chambers, writing, writing for an audience, time management, and getting big things done. Do you remember Cool Runnings? In the movie, John Ca",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/03/18/apprentice",
+      "title": "Music To Build Agents By",
+      "link": "http://brooker.co.za/blog/2026/03/18/apprentice.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-03-18T00:00:00.000Z",
+      "summary": "Music To Build Agents By I don't have this problem, because I don't use a mouse. Press play, then start reading: Want to learn how to think about agent policy? Start with Goethe’s Der Zauberlehrling. So come along, you old broomstick! Dress yourself in rotten rags! You’ve long been a servant; Obey my orders now! When I talk to customers and teams around me about agents and agent policy, and the wo",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/162",
+      "title": "GNU and the AI reimplementations",
+      "link": "\nhttp://antirez.com/news/162\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-03-08T16:08:41.000Z",
+      "summary": "Those who cannot remember the past are condemned to repeat it. A sentence that I never really liked, and what is happening with AI, about software projects reimplementations, shows all the limits of such an idea. Many people are protesting the fairness of rewriting existing projects using AI. But, a good portion of such people, during the 90s, were already in the field: they followed the final par",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/161",
+      "title": "Redis patterns for coding",
+      "link": "\nhttp://antirez.com/news/161\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-03-01T09:55:09.000Z",
+      "summary": "Here LLM and coding agents can find: 1. Exhaustive documentation about Redis commands and data types. 2. Patterns commonly used. 3. Configuration hints. 4. Algorithms that can be mounted using Redis commands. https://redis.antirez.com/ Some humans claim this documentation is actually useful for actual people, as well :) I'm posting this to make sure search engines will index it. Comments",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/02/25/sfq",
+      "title": "SFQ: Simple, Stateless, Stochastic Fairness",
+      "link": "http://brooker.co.za/blog/2026/02/25/sfq.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-02-25T00:00:00.000Z",
+      "summary": "SFQ: Simple, Stateless, Stochastic Fairness Roll the dice. Paul E. McKenney’s 1990 paper Stochastic Fairness Queuing contains one of my favorite little algorithms for distributed systems. Stochastic Fairness Queuing is a way to stochastically isolate workloads from different customers in a way that significantly mitigates the effects of noisy neighbors, with O(1) queues and O(1) time. McKenney sta",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/160",
+      "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
+      "link": "\nhttp://antirez.com/news/160\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-02-24T17:58:02.000Z",
+      "summary": "Anthropic recently released a blog post with the description of an experiment in which the last version of Opus, the 4.6, was instructed to write a C compiler in Rust, in a “clean room” setup. The experiment methodology left me dubious about the kind of point they wanted to make. Why not provide the agent with the ISA documentation? Why Rust? Writing a C compiler is exactly a giant graph manipulat",
+      "importance": "important"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/02/07/you-are-here",
+      "title": "You Are Here",
+      "link": "http://brooker.co.za/blog/2026/02/07/you-are-here.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-02-07T00:00:00.000Z",
+      "summary": "You Are Here Where to next? The cost of turning written business logic into code has dropped to zero. Or, at best, near-zero. The cost of integrating services and libraries, the plumbing of the code world, has dropped to zero. Or, at best, near-zero. The cost of building efficient, reliable, secure, end-to-end systems is starting to drop, but slowly. Where does that leave those of us who have buil",
+      "importance": "medium"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html",
+      "title": "Why I joined OpenAI",
+      "link": "http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2026-02-06T13:00:00.000Z",
+      "summary": "The staggering and fast-growing cost of AI datacenters is a call for performance engineering like no other in history; it's not just about saving costs – it's about saving the planet. I have joined OpenAI to work on this challenge directly, with an initial focus on ChatGPT performance. The scale is extreme and the growth is mind-boggling. As a leader in datacenter performance, I've realized that p",
+      "importance": "important"
+    },
+    {
+      "id": "http://antirez.com/news/159",
+      "title": "Automatic programming",
+      "link": "\nhttp://antirez.com/news/159\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-01-31T09:25:27.000Z",
+      "summary": "In my YouTube channel, for some time now I started to refer to the process of writing software using AI assistance (soon to become just \"the process of writing software\", I believe) with the term \"Automatic Programming\". In case you didn't notice, automatic programming produces vastly different results with the same LLMs depending on the human that is guiding the process with their intuition, desi",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/01/21/pass-k",
+      "title": "Pass@k is Mostly Bunk",
+      "link": "http://brooker.co.za/blog/2026/01/21/pass-k.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-01-21T00:00:00.000Z",
+      "summary": "Pass@k is Mostly Bunk Exponentially better results? I'll take three! Measuring the success of AI agents isn’t easy. It’s very sensitive to what success means, it can require a lot of samples, its highly context sensitive. Generally hard. So it doesn’t help that one of the most common metrics used for agents is (mostly) bunk. I’m talking about pass@k. What is pass@k? It’s the probability that at le",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2026/01/12/agent-box",
+      "title": "Agent Safety is a Box",
+      "link": "http://brooker.co.za/blog/2026/01/12/agent-box.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2026-01-12T00:00:00.000Z",
+      "summary": "Agent Safety is a Box Keep a lid on it. Before we start, let’s cover some terms so we’re thinking about the same thing. This is a post about AI agents, which I’ll define (riffing off Simon Willison1) as: An AI agent runs models and tools in a loop to achieve a goal. Here, goals can include coding, customer service, proving theorems, cloud operations, or many other things. These agents can be inter",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/158",
+      "title": "Don't fall into the anti-AI hype",
+      "link": "\nhttp://antirez.com/news/158\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2026-01-11T10:15:51.000Z",
+      "summary": "I love writing software, line by line. It could be said that my career was a continuous effort to create software well written, minimal, where the human touch was the fundamental feature. I also hope for a society where the last are not forgotten. Moreover, I don't want AI to economically succeed, I don't care if the current economic system is subverted (I could be very happy, honestly, if it goes",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/157",
+      "title": "Reflections on AI at the end of 2025",
+      "link": "\nhttp://antirez.com/news/157\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-12-20T08:58:29.000Z",
+      "summary": "* For years, despite functional evidence and scientific hints accumulating, certain AI researchers continued to claim LLMs were stochastic parrots: probabilistic machines that would: 1. NOT have any representation about the meaning of the prompt. 2. NOT have any representation about what they were going to say. In 2025 finally almost everybody stopped saying so. * Chain of thought is now a fundame",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/12/16/natural-language",
+      "title": "On the success of 'natural language programming'",
+      "link": "http://brooker.co.za/blog/2025/12/16/natural-language.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-12-16T00:00:00.000Z",
+      "summary": "On the success of ‘natural language programming’ Specifications, in plain speech. I believe that specification is the future of programming. Over the last four decades, we’ve seen the practice of building programs, and software systems grow closer and closer to the practice of specification. Details of the implementation, from layout in memory and disk, to layout in entire data centers, to algorit",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/12/15/database-for-ssd",
+      "title": "What Does a Database for SSDs Look Like?",
+      "link": "http://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-12-15T00:00:00.000Z",
+      "summary": "What Does a Database for SSDs Look Like? Maybe not what you think. Over on X, Ben Dicken asked: What does a relational database designed specifically for local SSDs look like? Postgres, MySQL, SQLite and many others were invented in the 90s and 00s, the era of spinning disks. A local NVMe SSD has ~1000x improvement in both throughput and latency. Design decisions like write-ahead logs, large page ",
+      "importance": "medium"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
+      "title": "Leaving Intel",
+      "link": "http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2025-12-04T13:00:00.000Z",
+      "summary": "InnovatiON 2022 AI Flame Graphs GPU Flame Scope Harshad Sane SREcon APAC Cloud strategy Last day I've resigned from Intel and accepted a new opportunity. If you are an Intel employee, you might have seen my fairly long email that summarized what I did in my 3.5 years. Much of this is public: AI flame graphs and released them as open source GPU subsecond-offset heatmap Worked with Linux distros to ",
+      "importance": "important"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html",
+      "title": "On \"AI Brendans\" or \"Virtual Brendans\"",
+      "link": "http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2025-11-27T13:00:00.000Z",
+      "summary": "There are now multiple AI performance engineering agents that use or are trained on my work. Some are helper agents that interpret flame graphs or eBPF metrics, sometimes privately called AI Brendan; others have trained on my work to create a virtual Brendan that claims it can tune everything just like the real thing. These virtual Brendans sound like my brain has been uploaded to the cloud by som",
+      "importance": "medium"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2025-11-22/intel-is-listening.html",
+      "title": "Intel is listening, don't waste your shot",
+      "link": "http://www.brendangregg.com/blog//2025-11-22/intel-is-listening.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2025-11-21T13:00:00.000Z",
+      "summary": "Intel's new CEO, Lip-Bu Tan, has made listening to customers a top priority, saying at Intel Vision earlier this year: \"Please be brutally honest with us. This is what I expect of you this week, and I believe harsh feedback is most valuable.\" I'd been in regular meetings with Intel for several years before I joined, and I had been giving them technical direction on various projects, including at t",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/11/20/what-now",
+      "title": "What Now? Handling Errors in Large Systems",
+      "link": "http://brooker.co.za/blog/2025/11/20/what-now.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-11-20T00:00:00.000Z",
+      "summary": "What Now? Handling Errors in Large Systems function vote(btn, choice) { const widget = btn.closest('.vote-widget'); widget.querySelector('.user-vote').textContent = choice === 'tick' ? '✅' : '❌'; widget.querySelector('.result').style.display = 'block'; widget.querySelectorAll('button').forEach(b => b.style.display = 'none'); } function showAllAnswers() { document.querySelectorAll('.vote-widget .re",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/11/18/consistency",
+      "title": "Why Strong Consistency?",
+      "link": "http://brooker.co.za/blog/2025/11/18/consistency.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-11-18T00:00:00.000Z",
+      "summary": "Why Strong Consistency? Eventual consistency makes your life harder. When I started at AWS in 2008, we ran the EC2 control plane on a tree of MySQL databases: a primary to handle writes, a secondary to take over from the primary, a handful of read replicas to scale reads, and some extra replicas for doing latency-insensitive reporting stuff. All of thing was linked together with MySQL’s statement-",
+      "importance": "medium"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html",
+      "title": "Third Stage Engineering",
+      "link": "http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2025-11-16T13:00:00.000Z",
+      "summary": "The real performance of any computer hardware in production is the result of the hardware, software, and tuning; the investment and sequence of these efforts can be pictured as a three-stage rocket: I recently presented this embarrassingly simple diagram to Intel's executive leadership, and at the time realized the value of sharing it publicly. The Internet is awash with comparisons about Intel (a",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/156",
+      "title": "Scaling HNSWs",
+      "link": "\nhttp://antirez.com/news/156\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-11-11T12:53:38.000Z",
+      "summary": "I’m taking a few weeks of pause on my HNSWs developments (now working on some other data structure, news soon). At this point, the new type I added to Redis is stable and complete enough, it’s the perfect moment to reason about what I learned about HNSWs, and turn it into a blog post. That kind of brain dump that was so common pre-AI era, and now has become, maybe, a bit more rare. Well, after alm",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/11/02/thinking-dsql",
+      "title": "DSQL: Simplifying Architectures",
+      "link": "http://brooker.co.za/blog/2025/11/02/thinking-dsql.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-11-02T00:00:00.000Z",
+      "summary": "DSQL: Simplifying Architectures Complexity is a choice. While we were designing and building Aurora DSQL, we spent a lot of time thinking about our experience building and running database-backed systems. We saw that building great, fast, cost-effective, highly-available, systems was harder than it needed to be. We wanted to make it easier. Today, I want to discuss some of Aurora DSQL’s features, ",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/10/22/uuidv7",
+      "title": "Fixing UUIDv7 (for database use-cases)",
+      "link": "http://brooker.co.za/blog/2025/10/22/uuidv7.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-10-22T00:00:00.000Z",
+      "summary": "Fixing UUIDv7 (for database use-cases) How do I even balance a V7? RFC9562 defines UUID Version 7. This has made a lot of people very angry and been widely regarded as a bad move1. More seriously, UUIDv7 has received a lot of criticism, despite seemingly achieving what it set out to do. The legitimate criticism seems to be on a few points. V7 UUIDs: Leak information (namely the server timestamp). ",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/10/12/barbarians",
+      "title": "Is Systems Research Really Just About Making Numbers Bigger?",
+      "link": "http://brooker.co.za/blog/2025/10/12/barbarians.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-10-12T00:00:00.000Z",
+      "summary": "Is Systems Research Really Just About Making Numbers Bigger? The Barbarian F.C. of systems research would be pretty cool. Lots of folks online have been talking about Barbarians at the Gate: How AI is Upending Systems Research by Cheng, Liu, Pan, et al this week. Maybe unsurprisingly, given the fact that I work in AI for my day job, and both consume and produce systems research, I found it super i",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/10/05/locality",
+      "title": "Locality, and Temporal-Spatial Hypothesis",
+      "link": "http://brooker.co.za/blog/2025/10/05/locality.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-10-05T00:00:00.000Z",
+      "summary": "Locality, and Temporal-Spatial Hypothesis Good fences make good neighbors? Last week at PGConf NYC, I had the pleasure of hearing Andres Freund talking about the great work he’s been doing to bring async IO to Postgres 18. One particular result caught my eye: a large difference in performance between forward and reverse scans, seemingly driven by read ahead1. The short version is that IO layers (l",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/09/18/firecracker",
+      "title": "Seven Years of Firecracker",
+      "link": "http://brooker.co.za/blog/2025/09/18/firecracker.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-09-18T00:00:00.000Z",
+      "summary": "Seven Years of Firecracker Time flies like an arrow. Fruit flies like a banana. Back at re:Invent 2018, we shared Firecracker with the world. Firecracker is open source software that makes it easy to create and manage small virtual machines. At the time, we talked about Firecracker as one of the key technologies behind AWS Lambda, including how it’d allowed us to make Lambda faster, more efficient",
+      "importance": "medium"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150450148",
+      "title": "xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise",
+      "link": "https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-09-16T17:38:01.000Z",
+      "summary": "Much has been written about xAI’s Colossus 1. The Memphis build belongs in the history books: the largest AI training cluster, erected from scratch in 122 days. With roughly 200,000 H100/H200s and ~30,000 GB200 NVL72, it remains, today, the largest fully operational, single-coherent cluster (setting apart Google, master of multi-datacenter-training). However, Colossus 1’s ~300 MW […]",
+      "importance": "medium"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150450611",
+      "title": "Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack",
+      "link": "https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-09-10T19:57:18.000Z",
+      "summary": "Nvidia announced the Rubin CPX, a solution that is specifically designed to be optimized for the prefill phase, with the single-die Rubin CPX heavily emphasizing compute FLOPS over memory bandwidth. This is a game changer for inference, and its significance is surpassed only by the March 2024 announcement of the GB200 NVL72 Oberon rack-scale form […]",
+      "importance": "important"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150442090",
+      "title": "Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck",
+      "link": "https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-09-08T09:54:57.000Z",
+      "summary": "Compute is the lifeblood of AI. He who controls the spice controls the universe the compute will control the production of tokens and reap the benefits of AI. Without compute you do not have a seat at the table. The United States technology community is all in on compute and AI as the next platform […]",
+      "importance": "medium"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150449616",
+      "title": "Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion",
+      "link": "https://semianalysis.com/2025/09/03/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-09-03T20:55:46.000Z",
+      "summary": "Two-and-a-half years ago, we flagged a looming “cloud crisis” at AWS. Today, the evidence has mounted. AWS is the crown jewel of the Amazon empire, generating ~60% of group profits, and dominating the lucrative Cloud Computing market. But it struggles to translate this strength into the new GPU/XPU Cloud era. Microsoft Azure now leads the […]",
+      "importance": "medium"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150448499",
+      "title": "H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time",
+      "link": "https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-08-20T04:56:35.000Z",
+      "summary": "Frontier model training has pushed GPUs and AI systems to their absolute limits, making cost, efficiency, power, performance per TCO, and reliability central to the discussion on effective training. The Hopper vs Blackwell comparisons are not as simple as Nvidia would have you believe. In this report, we will start by present the results of […]",
+      "importance": "medium"
+    },
+    {
+      "id": "http://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql",
+      "title": "Dynamo, DynamoDB, and Aurora DSQL",
+      "link": "http://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html",
+      "source": "Marc Brooker",
+      "weight": 0,
+      "date": "2025-08-15T00:00:00.000Z",
+      "summary": "Dynamo, DynamoDB, and Aurora DSQL Names are hard, ok? People often ask me about the architectural relationship between Amazon Dynamo (as described in the classic 2007 SOSP paper), Amazon DynamoDB (the serverless distributed NoSQL database from AWS), and Aurora DSQL (the serverless distributed SQL database from AWS). There’s a ton to say on the topic, but I’ll start off on comparing how the systems",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/155",
+      "title": "AI is different",
+      "link": "\nhttp://antirez.com/news/155\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-08-13T15:59:56.000Z",
+      "summary": "Regardless of their flaws, AI systems continue to impress with their ability to replicate certain human skills. Even if imperfect, such systems were a few years ago science fiction. It was not even clear that we were so near to create machines that could understand the human language, write programs, and find bugs in a complex code base: bugs that escaped the code review of a competent programmer.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150445937",
+      "title": "GPT-5 Set the Stage for Ad Monetization and the SuperApp",
+      "link": "https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-08-13T00:27:14.000Z",
+      "summary": "To many power users (Pro and Plus), GPT5 was a disappointing release. But with closer inspection, the real release is focused on the vast majority of ChatGPT’s users, which is the 700m+ free userbase that is growing rapidly. Power users should be disappointed; this release wasn’t for them. The real consumer opportunity for OpenAI lies […]",
+      "importance": "important"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150423453",
+      "title": "Scaling the Memory Wall: The Rise and Roadmap of HBM",
+      "link": "https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-08-12T01:16:06.000Z",
+      "summary": "The first portion of this report will explain HBM, the manufacturing process, dynamics between vendors, KVCache offload, disaggregated prefill decode, and wide / high-rank EP. The rest of the report will dive deeply into the future of HBM. We will cover the revolutionary change coming to HBM4 with custom base dies for HBM, what various […]",
+      "importance": "medium"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html",
+      "title": "When to Hire a Computer Performance Engineering Team (2025) part 1 of 2",
+      "link": "http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2025-08-03T14:00:00.000Z",
+      "summary": "As a leader in computer performance I've been asked by companies about how (and why) to form a performance engineering team, and as this is broadly useful I'll share my advice here. Large tech companies in the US hire performance engineers (under that or other titles) to ensure that infrastructure costs and service latency don't grow too high, and that their service is reliable under peak load. A ",
+      "importance": "medium"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150443173",
+      "title": "Robotics Levels of Autonomy",
+      "link": "https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-07-30T17:02:25.000Z",
+      "summary": "Robots have powered manufacturing for decades, yet they stayed single-purpose and thrived only in perfect settings. Previous attempts at intelligent machines overpromised and underdelivered. But they were too early. Today, modern AI paradigms convert most robot roadblocks into data problems and push machines toward capabilities once thought impossible. As these models absorb real-world experience,",
+      "importance": "medium"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150442403",
+      "title": "Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More",
+      "link": "https://semianalysis.com/2025/07/21/vlsi2025/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-07-21T14:23:37.000Z",
+      "summary": "Long time readers will recall that SemiAnalysis covers more than just datacenters and AMD. Today we’re back to semiconductors with a tech-focused roundup of the best from this year’s VLSI conference, the premiere design and integration. That includes the latest in chips manufacturing: fab digital twins, the future of advanced logic transistors and interconnects, DRAM […]",
+      "importance": "small"
+    },
+    {
+      "id": "http://antirez.com/news/154",
+      "title": "Coding with LLMs in the summer of 2025 (an update)",
+      "link": "\nhttp://antirez.com/news/154\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-07-20T10:58:54.000Z",
+      "summary": "Frontier LLMs such as Gemini 2.5 PRO, with their vast understanding of many topics and their ability to grasp thousands of lines of code in a few seconds, are able to extend and amplify the programmer capabilities. If you are able to describe problems in a clear way and, if you are able to accept the back and forth needed in order to work with LLMs, you can reach incredible results such as: 1. Eli",
+      "importance": "medium"
+    },
+    {
+      "id": "https://semianalysis.com/?p=150441905",
+      "title": "Meta Superintelligence – Leadership Compute, Talent, and Data",
+      "link": "https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/",
+      "source": "SemiAnalysis",
+      "weight": 1,
+      "date": "2025-07-11T20:12:19.000Z",
+      "summary": "Meta’s shocking purchase of 49% of Scale AI at a ~$30B valuation shows that money is of no concern for the $100B annual cashflow ad machine. Despite seemingly unlimited resources, Meta has been falling behind foundation labs in model performance.",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/153",
+      "title": "Human coders are still better than LLMs",
+      "link": "\nhttp://antirez.com/news/153\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-05-29T16:34:51.000Z",
+      "summary": "This is a short story of how humans are still so much more capable of LLMs. Note that I'm not anti-AI or alike, you know it if you know me / follow me somewhere. I use LLMs routinely, like I did today, when I want to test my ideas, for code reviews, to understand if there are better approaches than what I had in mind, to explore stuff at the limit of my expertise, and so forth (I wrote a blog post",
+      "importance": "medium"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2025-05-22/3-years-of-extremely-remote-work.html",
+      "title": "3 Years of Extremely Remote Work",
+      "link": "http://www.brendangregg.com/blog//2025-05-22/3-years-of-extremely-remote-work.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2025-05-21T14:00:00.000Z",
+      "summary": "In the last 3 years I've attended 77 meetings that began between 1am and 6am, roughly once every two weeks, followed by my usual 7am start, Monday to Saturday. I'm working remotely from Australia for a US firm (Intel) who does not have a local office here. I'm not complaining. I work weird hours, but I don't think I work too many. I'm writing this post because there are some misconceptions and ass",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/152",
+      "title": "What I learned during the license switch",
+      "link": "\nhttp://antirez.com/news/152\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-05-02T08:46:25.000Z",
+      "summary": "Yesterday, it was a very intense day. In Italy it was 1st of May, the workers holiday, so in the morning I went for a 4h walk in the Etna with friends Then at 6PM I was at home to release my blog post about the AGPL license switch, and I started following the comments, feedbacks, private messages, and I learned a few things in the process. 1. Regardless of the different few clauses, that IMHO make",
+      "importance": "important"
+    },
+    {
+      "id": "http://antirez.com/news/151",
+      "title": "Redis is open source again",
+      "link": "\nhttp://antirez.com/news/151\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-05-01T15:55:50.000Z",
+      "summary": "Five months ago, I rejoined Redis and quickly started to talk with my colleagues about a possible switch to the AGPL license, only to discover that there was already an ongoing discussion, a very old one, too. Many people, within the company, had the feeling that the AGPL was a better pick than SSPL, and while eventually Redis switched to the SSPL license, the internal discussion continued. I trie",
+      "importance": "medium"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2025-05-01/doom-gpu-flame-graphs.html",
+      "title": "Doom GPU Flame Graphs",
+      "link": "http://www.brendangregg.com/blog//2025-05-01/doom-gpu-flame-graphs.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2025-04-30T14:00:00.000Z",
+      "summary": "AI Flame Graphs are now open source and include Intel Battlemage GPU support, which means it can also generate full-stack GPU flame graphs for providing new insights into gaming performance, especially when coupled with FlameScope (an older open source project of mine). Here's an example of GZDoom, and I'll start with flame scopes for both CPU and GPU utilization, with details annotated: (Here are",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/150",
+      "title": "Reproducing Hacker News writing style fingerprinting",
+      "link": "\nhttp://antirez.com/news/150\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-04-16T13:53:16.000Z",
+      "summary": "About three years ago I saw a quite curious and interesting post on Hacker News. A student, Christopher Tarry, was able to use cosine similarity against a vector of top words frequencies in comments, in order to detect similar HN accounts — and, sometimes, even accounts actually controlled by the same user, that is, fake accounts used to uncover the identity of the writer. This is the original pos",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/149",
+      "title": "Vector Sets are part of Redis",
+      "link": "\nhttp://antirez.com/news/149\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-04-03T18:01:20.000Z",
+      "summary": "Yesterday we finally merged vector sets into Redis, here you can find the README that explains in detail what you get: https://github.com/redis/redis/blob/unstable/modules/vector-sets/README.md The goal of the new data structure is, in short, to create a new “Set alike” data type, similar to Sorted Sets, where instead of having a scalar as a score, you have a vector, and you can add and remove ele",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/148",
+      "title": "AI is useless, but it is our best bet for the future",
+      "link": "\nhttp://antirez.com/news/148\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-03-23T08:13:53.000Z",
+      "summary": "I used AI with success 5 minutes ago. Just five minutes ago, I was writing a piece of software and relied on AI for assistance. Yet, here I am, starting this blog post by telling you that artificial intelligence, so far, has proven somewhat useless. How can I make such a statement if AI was just so helpful a moment ago? Actually, there's no contradiction here if we clarify exactly what we mean. He",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/147",
+      "title": "Big LLMs weights are a piece of history",
+      "link": "\nhttp://antirez.com/news/147\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-03-16T11:56:33.000Z",
+      "summary": "By multiple accounts, the web is losing pieces: every year a fraction of old web pages disappear, lost forever. We should regard the Internet Archive as one of the most valuable pieces of modern history; instead, many companies and entities make the chances of the Archive to survive, and accumulate what otherwise will be lost, harder and harder. I understand that the Archive headquarters are locat",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/146",
+      "title": "Reasoning models are just LLMs",
+      "link": "\nhttp://antirez.com/news/146\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-02-09T18:19:38.000Z",
+      "summary": "It’s not new, but it’s accelerating. People that used to say that LLMs were a fundamentally flawed way to reach any useful reasoning and, in general, to develop any useful tool with some degree of generality, are starting to shuffle the deck, in the hope to look less wrong. They say: “the progresses we are seeing are due to the fact that models like OpenAI o1 or DeepSeek R1 are not just LLMs”. Thi",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/145",
+      "title": "We are destroying software",
+      "link": "\nhttp://antirez.com/news/145\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2025-02-08T14:47:49.000Z",
+      "summary": "We are destroying software by no longer taking complexity into account when adding features or optimizing some dimension. We are destroying software with complex build systems. We are destroying software with an absurd chain of dependencies, making everything bloated and fragile. We are destroying software telling new programmers: “Don’t reinvent the wheel!”. But, reinventing the wheel is how you ",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/an-interview-with-stratechery-a-new",
+      "title": "An Interview with Stratechery; A New Start",
+      "link": "https://www.asianometry.com/p/an-interview-with-stratechery-a-new",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2025-01-21T03:30:53.000Z",
+      "summary": "I got interviewed by Ben Thompson of Stratechery. I also want to talk a change.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/looking-back-at-2024",
+      "title": "Looking Back at 2024",
+      "link": "https://www.asianometry.com/p/looking-back-at-2024",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-12-31T22:00:51.000Z",
+      "summary": "Can you imagine it?",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/144",
+      "title": "From where I left",
+      "link": "\nhttp://antirez.com/news/144\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2024-12-10T16:38:55.000Z",
+      "summary": "I’m not the kind of person that develops a strong attachment to their own work. When I decided to leave Redis, about 1620 days ago (~ 4.44 years), I never looked at the source code, commit messages, or anything related to Redis again. From time to time, when I needed Redis, I just downloaded it and compiled it. I just typed “make” and I was very happy to see that, after many years, building Redis ",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/nvidias-unique-history-and-culture",
+      "title": "Nvidia's Unique History and Culture",
+      "link": "https://www.asianometry.com/p/nvidias-unique-history-and-culture",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-12-06T18:26:51.000Z",
+      "summary": "An interview with Tae Kim, author of the \"Nvidia Way\"",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/the-big-data-center-water-problem",
+      "title": "The Big Data Center Water Problem",
+      "link": "https://www.asianometry.com/p/the-big-data-center-water-problem",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-11-20T18:01:06.000Z",
+      "summary": "A datacenter with 15 megawatts of IT capacity is estimated to use about 80-130 million gallons of water each year.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/how-sony-mastered-the-transistor",
+      "title": "How Sony Mastered the Transistor",
+      "link": "https://www.asianometry.com/p/how-sony-mastered-the-transistor",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-11-07T18:01:58.000Z",
+      "summary": "Last month’s AiSalon was quite fun.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/euv-with-fewer-mirrors",
+      "title": "EUV With Fewer Mirrors?",
+      "link": "https://www.asianometry.com/p/euv-with-fewer-mirrors",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-10-28T18:01:42.000Z",
+      "summary": "Has it really been so long since I last did a newsletter?",
+      "importance": "small"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html",
+      "title": "AI Flame Graphs",
+      "link": "http://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2024-10-28T13:00:00.000Z",
+      "summary": "Imagine halving the resource costs of AI and what that could mean for the planet and the industry -- based on extreme estimates such savings could reduce the total US power usage by over 10% by 20301. At Intel we've been creating a new analyzer tool to help reduce AI costs called AI Flame Graphs: a visualization that shows an AI accelerator or GPU hardware profile along with the full software stac",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/ballmer/",
+      "title": "Steve Ballmer was an underrated CEO",
+      "link": "https://danluu.com/ballmer/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-10-28T00:00:00.000Z",
+      "summary": "There's a common narrative that Microsoft was moribund under Steve Ballmer and then later saved by the miraculous leadership of Satya Nadella. This is the dominant narrative in every online discussion about the topic I've seen and it's a commonly expressed belief \"in real life\" as well. While I don't have anything negative to say about Nadella's leadership in this post, this narrative underrates B",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/the-creation-of-stmicroelectronics",
+      "title": "The Creation of STMicroelectronics",
+      "link": "https://www.asianometry.com/p/the-creation-of-stmicroelectronics",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-08-31T10:02:15.000Z",
+      "summary": "Two semiconductor companies.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/the-600-billion-ai-chip-giant",
+      "title": "The $600 Billion AI Chip Giant",
+      "link": "https://www.asianometry.com/p/the-600-billion-ai-chip-giant",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-08-20T19:01:20.000Z",
+      "summary": "Note: All I would like to point out is that Broadcom’s market cap is $771 billon now.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/codenames/",
+      "title": "How good can you be at Codenames without knowing any words?",
+      "link": "https://danluu.com/codenames/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-08-11T00:00:00.000Z",
+      "summary": "About eight years ago, I was playing a game of Codenames where the game state was such that our team would almost certainly lose if we didn't correctly guess all of our remaining words on our turn. From the given clue, we were unable to do this. Although the game is meant to be a word guessing game based on word clues, a teammate suggested that, based on the physical layout of the words that had b",
+      "importance": "medium"
+    },
+    {
+      "id": "http://www.brendangregg.com/blog//2024-07-22/no-more-blue-fridays.html",
+      "title": "No More Blue Fridays",
+      "link": "http://www.brendangregg.com/blog//2024-07-22/no-more-blue-fridays.html",
+      "source": "Brendan Gregg",
+      "weight": 0,
+      "date": "2024-07-21T14:00:00.000Z",
+      "summary": "In the future, computers will not crash due to bad software updates, even those updates that involve kernel code. In the future, these updates will push eBPF code. Friday July 19th provided an unprecedented example of the inherent dangers of kernel programming, and has been called the largest outage in the history of information technology. Windows computers around the world encountered blue-scree",
+      "importance": "important"
+    },
+    {
+      "id": "https://www.asianometry.com/p/whats-next-for-asml",
+      "title": "What’s Next For ASML?",
+      "link": "https://www.asianometry.com/p/whats-next-for-asml",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-06-16T18:04:53.000Z",
+      "summary": "See the video below:",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/ai-bias/",
+      "title": "A discussion of discussions on AI bias",
+      "link": "https://danluu.com/ai-bias/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-06-16T00:00:00.000Z",
+      "summary": "There've been regular viral stories about ML/AI bias with LLMs and generative AI for the past couple years. One thing I find interesting about discussions of bias is how different the reaction is in the LLM and generative AI case when compared to \"classical\" bugs in cases where there's a clear bug. In particular, if you look at forums or other discussions with lay people, people frequently deny th",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/ftc-google-antitrust/",
+      "title": "What the FTC got wrong in the Google antitrust investigation",
+      "link": "https://danluu.com/ftc-google-antitrust/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-05-26T00:00:00.000Z",
+      "summary": "From 2011-2012, the FTC investigated the possibility of pursuing antitrust action against Google. The FTC decided to close the investigation and not much was publicly known about what happened until Politico released 312 pages of internal FTC memos that from the investigation a decade later. As someone who works in tech, on reading the memos, the most striking thing is how one side, the side that ",
+      "importance": "important"
+    },
+    {
+      "id": "https://www.asianometry.com/p/why-brain-like-computers-are-hard",
+      "title": "Why Brain-like Computers Are Hard",
+      "link": "https://www.asianometry.com/p/why-brain-like-computers-are-hard",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-04-29T18:00:50.000Z",
+      "summary": "Computers that run the Von Neumann architecture store their programs and data in the same memory bank.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/tsmcs-chips-act-money",
+      "title": "TSMC's CHIPS Act Money",
+      "link": "https://www.asianometry.com/p/tsmcs-chips-act-money",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-04-08T15:01:44.000Z",
+      "summary": "At the end of my video on TSMC’s experiences in Japan, I wrote:",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/slow-device/",
+      "title": "How web bloat impacts users with slow devices",
+      "link": "https://danluu.com/slow-device/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-03-16T00:00:00.000Z",
+      "summary": "In 2017, we looked at how web bloat affects users with slow connections. Even in the U.S., many users didn't have broadband speeds, making much of the web difficult to use. It's still the case that many users don't have broadband speeds, both inside and outside of the U.S. and that much of the modern web isn't usable for people with slow internet, but the exponential increase in bandwidth (Nielsen",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/is-the-ai-boom-real",
+      "title": "Is the AI Boom Real?",
+      "link": "https://www.asianometry.com/p/is-the-ai-boom-real",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-03-07T17:01:29.000Z",
+      "summary": "For the past three weeks I have been traveling through Japan and the United States.",
+      "importance": "medium"
+    },
+    {
+      "id": "http://antirez.com/news/143",
+      "title": "Playing audio files in a Pi Pico without a DAC",
+      "link": "\nhttp://antirez.com/news/143\n",
+      "source": "Antirez",
+      "weight": 0,
+      "date": "2024-03-06T10:52:34.000Z",
+      "summary": "The Raspberry Pico is suddenly becoming my preferred chip for embedded development. It is well made, durable hardware, with a ton of features that appear designed with smartness and passion (the state machines driving the GPIOs are a killer feature!). Its main weakness, the lack of connectivity, is now resolved by the W variant. The data sheet is excellent and documents every aspect of the chip. M",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/diseconomies-scale/",
+      "title": "Diseconomies of scale in fraud, spam, support, and moderation",
+      "link": "https://danluu.com/diseconomies-scale/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-02-18T00:00:00.000Z",
+      "summary": "If I ask myself a question like \"I'd like to buy an SD card; who do I trust to sell me a real SD card and not some fake, Amazon or my local Best Buy?\", of course the answer is that I trust my local Best Buy1 more than Amazon, which is notorious for selling counterfeit SD cards. And if I ask who do I trust more, my local reputable electronics shop (Memory Express, B&H Photo, etc.), I trust my local",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/analog-chip-design-is-an-art-can",
+      "title": "Analog Chip Design is an Art. Can AI Help?",
+      "link": "https://www.asianometry.com/p/analog-chip-design-is-an-art-can",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-02-12T10:01:46.000Z",
+      "summary": "Here’s the video:",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/impossible-agree/",
+      "title": "Why it's impossible to agree on what's allowed",
+      "link": "https://danluu.com/impossible-agree/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-02-07T00:00:00.000Z",
+      "summary": "On large platforms, it's impossible to have policies on things like moderation, spam, fraud, and sexual content that people agree on. David Turner made a simple game to illustrate how difficult this is even in a trivial case, No Vehicles in the Park. If you haven't played it yet, I recommend playing it now before continuing to read this document. The idea behind the site is that it's very difficul",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/cruise-report/",
+      "title": "Notes on Cruise's pedestrian accident",
+      "link": "https://danluu.com/cruise-report/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-01-29T00:00:00.000Z",
+      "summary": "This is a set of notes on the Quinn Emanuel report on Cruise's handling of the 2023-10-02 accident where a Cruise autonomous vehicle (AV) hit a pedestrian, stopped, and then started moving again with the pedestrian stuck under the bottom of the AV, dragging the pedestrian 20 feet. After seeing some comments about this report, I read five stories on this report and then skimmed the report and my fe",
+      "importance": "small"
+    },
+    {
+      "id": "https://danluu.com/why-video/",
+      "title": "Why do people post on [bad platform] instead of [good platform]?",
+      "link": "https://danluu.com/why-video/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2024-01-25T00:00:00.000Z",
+      "summary": "There's a class of comment you often see when someone makes a popular thread on Mastodon/Twitter/Threads/etc., that you also see on videos that's basically \"Why make a Twitter thread? This would be better as a blog post\" or \"Why make a video? This would be better as a blog post\". But, these comments are often stronger in form, such as: I can't read those tweets that span pages because the users pu",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/toshibas-big-technology-export-scandal",
+      "title": "Toshiba’s Big Technology Export Scandal",
+      "link": "https://www.asianometry.com/p/toshibas-big-technology-export-scandal",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2024-01-10T17:01:03.000Z",
+      "summary": "You can watch the video here:",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/seo-spam/",
+      "title": "How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT",
+      "link": "https://danluu.com/seo-spam/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2023-12-30T00:00:00.000Z",
+      "summary": "In The birth & death of search engine optimization, Xe suggests Here's a fun experiment to try. Take an open source project such as yt-dlp and try to find it from a very generic term like \"youtube downloader\". You won't be able to find it because of all of the content farms that try to rank at the top for that term. Even though yt-dlp is probably actually what you want for a tool to download video",
+      "importance": "important"
+    },
+    {
+      "id": "https://www.asianometry.com/p/looking-back-at-2023",
+      "title": "Looking Back at 2023",
+      "link": "https://www.asianometry.com/p/looking-back-at-2023",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2023-12-27T17:00:34.000Z",
+      "summary": "An Asianometry Recap",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/tsmc-chairman-mark-liu-retires",
+      "title": "TSMC Chairman Mark Liu Retires",
+      "link": "https://www.asianometry.com/p/tsmc-chairman-mark-liu-retires",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2023-12-19T17:00:56.000Z",
+      "summary": "A few random thoughts",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/euv-lithography-but-with-a-free-electron",
+      "title": "EUV Lithography. But With a Free Electron Laser",
+      "link": "https://www.asianometry.com/p/euv-lithography-but-with-a-free-electron",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2023-12-06T17:01:16.000Z",
+      "summary": "Long time no see.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/tsmcs-new-r-and-d-fab-in-taiwan",
+      "title": "TSMC's New R&D Fab in Taiwan",
+      "link": "https://www.asianometry.com/p/tsmcs-new-r-and-d-fab-in-taiwan",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2023-08-31T17:24:08.000Z",
+      "summary": "Sorry that it took so long for me to get this one out onto the newsletter.",
+      "importance": "small"
+    },
+    {
+      "id": "https://www.asianometry.com/p/tsmcs-new-fab-in-germany",
+      "title": "TSMC's New Fab in Germany",
+      "link": "https://www.asianometry.com/p/tsmcs-new-fab-in-germany",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2023-08-13T17:00:18.000Z",
+      "summary": "The rumors have long been cooking.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://www.asianometry.com/p/the-20-year-fall-of-japans-sharp",
+      "title": "The 20 Year Fall of Japan's Sharp Corporation",
+      "link": "https://www.asianometry.com/p/the-20-year-fall-of-japans-sharp",
+      "source": "Asianometry",
+      "weight": 1,
+      "date": "2023-07-12T17:01:05.000Z",
+      "summary": "The mechanical pencil.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/elon-dave-chappelle/",
+      "title": "Transcript of Elon Musk on stage with Dave Chapelle",
+      "link": "https://danluu.com/elon-dave-chappelle/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2022-12-11T00:00:00.000Z",
+      "summary": "This is a transcription of videos Elon Musk's appearance on stage with Dave Chapelle using OpenAI's Whisper model with some manual error corrections and annotations for crowd noise. As with the Exhibit H Twitter text message release, there are a lot of articles that quote bits of this, but the articles generally missing a lot of what happened and often paint a misleading picture of happened and th",
+      "importance": "important"
+    },
+    {
+      "id": "https://danluu.com/elon-twitter-texts/",
+      "title": "Chat log exhibits from Twitter v. Musk case",
+      "link": "https://danluu.com/elon-twitter-texts/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2022-10-01T00:00:00.000Z",
+      "summary": "This is a scan/OCR of Exhibits H and J from the Twitter v. Musk case, with some of the conversations de-interleaved and of course converted from a fuzzy scan to text to make for easier reading. I did this so that I could easily read this and, after reading it, I've found that most accountings of what was said are, in one way or another, fairly misleading. Since the texts aren't all that long, if y",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/futurist-predictions/",
+      "title": "Futurist prediction methods and accuracy",
+      "link": "https://danluu.com/futurist-predictions/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2022-09-12T00:00:00.000Z",
+      "summary": "I've been reading a lot of predictions from people who are looking to understand what problems humanity will face 10-50 years out (and sometimes longer) in order to work in areas that will be instrumental for the future and wondering how accurate these predictions of the future are. The timeframe of predictions that are so far out means that only a tiny fraction of people making those kinds of pre",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/simple-architectures/",
+      "title": "In defense of simple architectures",
+      "link": "https://danluu.com/simple-architectures/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2022-04-06T00:00:00.000Z",
+      "summary": "Wave is a $1.7B company with 70 engineers1 whose product is a CRUD app that adds and subtracts numbers. In keeping with this, our architecture is a standard CRUD app architecture, a Python monolith on top of Postgres. Starting with a simple architecture and solving problems in simple ways where possible has allowed us to scale to this size while engineers mostly focus on work that delivers value t",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/nothing-works/",
+      "title": "Why is it so hard to buy things that work well?",
+      "link": "https://danluu.com/nothing-works/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2022-03-14T00:00:00.000Z",
+      "summary": "There's a cocktail party version of the efficient markets hypothesis I frequently hear that's basically, \"markets enforce efficiency, so it's not possible that a company can have some major inefficiency and survive\". We've previously discussed Marc Andreessen's quote that tech hiring can't be inefficient here and here: Let's launch right into it. I think the critique that Silicon Valley companies ",
+      "importance": "important"
+    },
+    {
+      "id": "https://danluu.com/talent/",
+      "title": "Misidentifying talent",
+      "link": "https://danluu.com/talent/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2022-02-21T00:00:00.000Z",
+      "summary": "[Click to collapse / expand section on sports] Here are some notes from talent scouts: Recruit A: ... will be a real specimen with chance to have a Dave Parker body. Facially looks like Leon Wagner. Good body flexibility. Very large hands. Recruit B: Outstanding physical specimen – big athletic frame with broad shoulders and long, solid arms and leg. Good bounce in his step and above avg body cont",
+      "importance": "small"
+    },
+    {
+      "id": "https://danluu.com/cache-incidents/",
+      "title": "A decade of major cache incidents at Twitter",
+      "link": "https://danluu.com/cache-incidents/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2022-02-02T00:00:00.000Z",
+      "summary": "This was co-authored with Yao Yue This is a collection of information on severe (SEV-0 or SEV-1, the most severe incident classifications) incidents at Twitter that were at least partially attributed to cache from the time Twitter started using its current incident tracking JIRA (2012) to date (2022), with one bonus incident from before 2012. Not including the bonus incident, there were 6 SEV-0s a",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/cocktail-ideas/",
+      "title": "Cocktail party ideas",
+      "link": "https://danluu.com/cocktail-ideas/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2022-02-02T00:00:00.000Z",
+      "summary": "You don't have to be at a party to see this phenomenon in action, but there's a curious thing I regularly see at parties in social circles where people value intelligence and cleverness without similarly valuing on-the-ground knowledge or intellectual rigor. People often discuss the standard trendy topics (some recent ones I've observed at multiple parties are how to build a competitor to Google s",
+      "importance": "medium"
+    },
+    {
+      "id": "https://danluu.com/cgroup-throttling/",
+      "title": "The container throttling problem",
+      "link": "https://danluu.com/cgroup-throttling/",
+      "source": "Dan Luu",
+      "weight": 0,
+      "date": "2021-12-18T00:00:00.000Z",
+      "summary": "This is an excerpt from an internal document David Mackey and I co-authored in April 2019. The document is excerpted since much of the original doc was about comparing possible approaches to increasing efficency at Twitter, which is mostly information that's meaningless outside of Twitter without a large amount of additional explanation/context. At Twitter, most CPU bound services start falling ov",
+      "importance": "medium"
+    }
+  ]
+}

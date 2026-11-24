@@ -1,0 +1,20 @@
+{
+  "feeds": [
+    { "name": "Decrypt",                   "url": "https://decrypt.co/feed",                 "weight": 2 },
+    { "name": "Dan Luu",                   "url": "https://danluu.com/atom.xml",             "weight": 0 },
+    { "name": "Asianometry",               "url": "https://www.asianometry.com/feed",        "weight": 1 },
+    { "name": "Cloudflare Blog",           "url": "https://blog.cloudflare.com/rss/",        "weight": 1 },
+    { "name": "ByteByteGo",                "url": "https://blog.bytebytego.com/feed",        "weight": 0 },
+    { "name": "Streaming Learning Center", "url": "https://streaminglearningcenter.com/feed", "weight": 0 },
+    { "name": "Simon Willison",            "url": "https://simonwillison.net/atom/everything/",      "weight": 1 },
+    { "name": "Import AI",                 "url": "https://jack-clark.net/feed",                     "weight": 2 },
+    { "name": "Pragmatic Engineer",        "url": "https://newsletter.pragmaticengineer.com/feed",   "weight": 1 },
+    { "name": "Brendan Gregg",             "url": "https://www.brendangregg.com/blog/rss.xml",       "weight": 0 },
+    { "name": "Marc Brooker",              "url": "https://brooker.co.za/blog/rss.xml",              "weight": 0 },
+    { "name": "Antirez",                   "url": "http://antirez.com/rss",                          "weight": 0 },
+    { "name": "SemiAnalysis",              "url": "https://semianalysis.com/feed",                   "weight": 1 },
+    { "name": "Chips and Cheese",          "url": "https://chipsandcheese.com/feed",                 "weight": 1 }
+  ],
+  "_comment": "weight: kaynagin taban onem egilimi. 2=haber agirlikli, 1=karisik, 0=uzun-form deneme. Yeni blog eklemek icin bu listeye bir satir ekle. Onerilenler README'de.",
+  "maxItemsPerFeed": 30
+}

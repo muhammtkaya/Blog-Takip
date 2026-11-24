@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Blog Takip</title>
+<style>
+  :root {
+    --bg: #faf9f7; --card: #ffffff; --text: #1a1a1a; --muted: #6b7280;
+    --line: #e7e5e1; --accent: #2563eb;
+    --imp: #dc2626; --med: #d97706; --sml: #64748b;
+    --read: #9ca3af;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #16181d; --card: #1f2229; --text: #e8e8ea; --muted: #9aa0ab;
+      --line: #2d3139; --accent: #6ea8fe;
+      --imp: #f87171; --med: #fbbf24; --sml: #94a3b8; --read: #5b616e;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #16181d; --card: #1f2229; --text: #e8e8ea; --muted: #9aa0ab;
+    --line: #2d3139; --accent: #6ea8fe;
+    --imp: #f87171; --med: #fbbf24; --sml: #94a3b8; --read: #5b616e;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  header {
+    position: sticky; top: 0; z-index: 10; background: var(--bg);
+    border-bottom: 1px solid var(--line); padding: 14px 16px;
+  }
+  .wrap { max-width: 820px; margin: 0 auto; }
+  h1 { font-size: 20px; margin: 0 0 10px; display: flex; align-items: baseline; gap: 10px; }
+  h1 .meta { font-size: 12px; font-weight: 400; color: var(--muted); }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  select, button {
+    font: inherit; font-size: 13px; color: var(--text); background: var(--card);
+    border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; cursor: pointer;
+  }
+  button:hover, select:hover { border-color: var(--accent); }
+  label.chk { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); cursor: pointer; }
+  main { padding: 16px; }
+  ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+  li {
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 12px 14px; display: flex; gap: 12px; align-items: flex-start;
+  }
+  li.read { opacity: 0.55; }
+  .tick {
+    flex: none; width: 22px; height: 22px; border-radius: 50%; border: 1.5px solid var(--line);
+    background: transparent; cursor: pointer; margin-top: 2px; color: var(--read);
+    display: grid; place-items: center; font-size: 13px; line-height: 1;
+  }
+  .tick.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .body { flex: 1; min-width: 0; }
+  .title { font-weight: 600; text-decoration: none; color: var(--text); }
+  .title:hover { color: var(--accent); }
+  li.read .title { color: var(--read); font-weight: 500; }
+  .sub { margin-top: 4px; font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .badge { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; padding: 2px 7px; border-radius: 999px; }
+  .badge.important { color: var(--imp); background: color-mix(in srgb, var(--imp) 15%, transparent); }
+  .badge.medium    { color: var(--med); background: color-mix(in srgb, var(--med) 15%, transparent); }
+  .badge.small     { color: var(--sml); background: color-mix(in srgb, var(--sml) 15%, transparent); }
+  .dot { color: var(--line); }
+  .empty { color: var(--muted); text-align: center; padding: 48px 0; }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>Blog Takip <span class="meta" id="meta"></span></h1>
+  <div class="controls">
+    <select id="sort">
+      <option value="date-desc">En yeni &rarr; eski</option>
+      <option value="date-asc">En eski &rarr; yeni</option>
+      <option value="imp">Oneme gore</option>
+    </select>
+    <select id="imp">
+      <option value="all">Tum onem</option>
+      <option value="important">Sadece onemli</option>
+      <option value="medium">Sadece medium</option>
+      <option value="small">Sadece small</option>
+    </select>
+    <select id="src"><option value="all">Tum kaynaklar</option></select>
+    <label class="chk"><input type="checkbox" id="hideRead" /> Okunanlari gizle</label>
+    <button id="theme" title="Tema">&#9681;</button>
+  </div>
+</div></header>
+
+<main><div class="wrap">
+  <ul id="list"></ul>
+  <div class="empty" id="empty" hidden>Yazi yok. GitHub Actions ilk kez calisinca dolacak.</div>
+</div></main>
+
+<script>
+const RANK = { important: 0, medium: 1, small: 2 };
+const LS_READ = "blogtakip.read";
+const LS_THEME = "blogtakip.theme";
+
+let items = [];
+let read = loadRead();
+
+function loadRead() {
+  try { return new Set(JSON.parse(localStorage.getItem(LS_READ) || "[]")); }
+  catch { return new Set(); }
+}
+function saveRead() {
+  try { localStorage.setItem(LS_READ, JSON.stringify([...read])); } catch {}
+}
+
+// Tema
+(function initTheme() {
+  try {
+    const t = localStorage.getItem(LS_THEME);
+    if (t) document.documentElement.dataset.theme = t;
+  } catch {}
+})();
+document.getElementById("theme").onclick = () => {
+  const cur = document.documentElement.dataset.theme
+    || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  const next = cur === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem(LS_THEME, next); } catch {}
+};
+
+function fmtDate(iso) {
+  if (!iso) return "tarih yok";
+  const d = new Date(iso);
+  return d.toLocaleDateString("tr-TR", { day: "numeric", month: "short", year: "numeric" });
+}
+
+function render() {
+  const sort = document.getElementById("sort").value;
+  const impF = document.getElementById("imp").value;
+  const srcF = document.getElementById("src").value;
+  const hideRead = document.getElementById("hideRead").checked;
+
+  let rows = items.filter(it =>
+    (impF === "all" || it.importance === impF) &&
+    (srcF === "all" || it.source === srcF) &&
+    (!hideRead || !read.has(it.id))
+  );
+
+  rows.sort((a, b) => {
+    if (sort === "imp") {
+      const r = (RANK[a.importance] ?? 9) - (RANK[b.importance] ?? 9);
+      if (r) return r;
+      return (b.date || "").localeCompare(a.date || "");
+    }
+    const c = (a.date || "").localeCompare(b.date || "");
+    return sort === "date-asc" ? c : -c;
+  });
+
+  const ul = document.getElementById("list");
+  ul.innerHTML = "";
+  document.getElementById("empty").hidden = rows.length > 0;
+
+  for (const it of rows) {
+    const li = document.createElement("li");
+    if (read.has(it.id)) li.className = "read";
+
+    const tick = document.createElement("button");
+    tick.className = "tick" + (read.has(it.id) ? " on" : "");
+    tick.textContent = read.has(it.id) ? "✓" : "";
+    tick.title = "Okundu olarak isaretle";
+    tick.onclick = () => {
+      if (read.has(it.id)) read.delete(it.id); else read.add(it.id);
+      saveRead(); render();
+    };
+
+    const body = document.createElement("div");
+    body.className = "body";
+    const a = document.createElement("a");
+    a.className = "title"; a.href = it.link; a.target = "_blank"; a.rel = "noopener";
+    a.textContent = it.title;
+    const sub = document.createElement("div");
+    sub.className = "sub";
+    sub.innerHTML =
+      `<span class="badge ${it.importance}">${it.importance}</span>` +
+      `<span>${it.source}</span><span class="dot">&middot;</span><span>${fmtDate(it.date)}</span>`;
+    body.append(a, sub);
+    li.append(tick, body);
+    ul.append(li);
+  }
+}
+
+function initSources() {
+  const sel = document.getElementById("src");
+  const names = [...new Set(items.map(i => i.source))].sort();
+  for (const n of names) {
+    const o = document.createElement("option");
+    o.value = n; o.textContent = n; sel.append(o);
+  }
+}
+
+async function boot() {
+  try {
+    const res = await fetch("data.json?" + Date.now());
+    const data = await res.json();
+    items = data.items || [];
+    const meta = document.getElementById("meta");
+    if (data.generatedAt)
+      meta.textContent = `${items.length} yazi · guncelleme ${fmtDate(data.generatedAt)}`;
+  } catch (e) {
+    document.getElementById("empty").textContent = "data.json okunamadi.";
+  }
+  initSources();
+  for (const id of ["sort", "imp", "src", "hideRead"])
+    document.getElementById(id).addEventListener("change", render);
+  render();
+}
+boot();
+</script>
+</body>
+</html>
