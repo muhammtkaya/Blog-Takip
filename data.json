@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T02:15:35.800Z",
+  "generatedAt": "2026-11-25T17:00:40.223Z",
   "count": 290,
   "sources": [
     "Decrypt",
@@ -18,6 +18,86 @@
     "Chips and Cheese"
   ],
   "items": [
+    {
+      "id": "https://decrypt.co/?p=383967",
+      "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+      "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T16:52:50.000Z",
+      "summary": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383962",
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T16:07:35.000Z",
+      "summary": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
+      "importance": "important"
+    },
+    {
+      "id": "01M87EHEACB4SNPV680X1CZPQ1",
+      "title": "Introducing Search for Agents",
+      "link": "https://blog.cloudflare.com/search-for-agents/",
+      "source": "Cloudflare Blog",
+      "weight": 1,
+      "date": "2026-11-25T14:00:00.000Z",
+      "summary": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=383945",
+      "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+      "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T13:41:38.000Z",
+      "summary": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383944",
+      "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+      "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T13:15:24.000Z",
+      "summary": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383941",
+      "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+      "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T11:52:06.000Z",
+      "summary": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383938",
+      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+      "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T11:23:57.000Z",
+      "summary": "HYPE fell more than 8% after Abraxas Capital pulled out of Hyperliquid, while U.S. Bitcoin ETFs' November outflows passed $4.9 billion.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383935",
+      "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
+      "link": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T10:35:57.000Z",
+      "summary": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak.",
+      "importance": "important"
+    },
     {
       "id": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
       "title": "Three LLM inflection points in twelve months",
@@ -319,56 +399,6 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383818",
-      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
-      "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T18:16:25.000Z",
-      "summary": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383821",
-      "title": "Perps and Swaps: How to Trade the News on Decrypt",
-      "link": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T18:15:45.000Z",
-      "summary": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383815",
-      "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-      "link": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T17:28:08.000Z",
-      "summary": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383800",
-      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-      "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T16:46:03.000Z",
-      "summary": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383801",
-      "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
-      "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T16:32:04.000Z",
-      "summary": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
-      "importance": "important"
-    },
-    {
       "id": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
       "title": "DoorDash Dispatch: Building a Lightning-Fast Delivery System",
       "link": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
@@ -389,16 +419,6 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383797",
-      "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
-      "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T14:07:21.000Z",
-      "summary": "The board said senior U.S. officials' input left it confident Huang's return poses no national security risk. Shares jumped 26% premarket.",
-      "importance": "important"
-    },
-    {
       "id": "01M7XNSFEMYQNMHGRYWVF2TQ82",
       "title": "Probing DNS at Cloudflare",
       "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
@@ -407,16 +427,6 @@
       "date": "2026-11-23T14:00:00.000Z",
       "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
       "importance": "medium"
-    },
-    {
-      "id": "https://decrypt.co/?p=383778",
-      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
-      "link": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T13:34:13.000Z",
-      "summary": "The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.",
-      "importance": "important"
     },
     {
       "id": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
@@ -1226,16 +1236,6 @@
       "weight": 1,
       "date": "2026-10-30T16:37:51.000Z",
       "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io’s AI spend, Microsoft’s exit offer to engineers, and more",
-      "importance": "medium"
-    },
-    {
-      "id": "01M64V2TDYZYSS8RE60T3MWKSM",
-      "title": "Cloudflare services for private origins is now generally available",
-      "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
-      "source": "Cloudflare Blog",
-      "weight": 1,
-      "date": "2026-10-30T14:23:43.000Z",
-      "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.",
       "importance": "medium"
     },
     {
