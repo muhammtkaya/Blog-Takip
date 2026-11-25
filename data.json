@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:57:20.119Z",
+  "generatedAt": "2026-11-25T02:15:35.800Z",
   "count": 290,
   "sources": [
     "Decrypt",
@@ -18,6 +18,106 @@
     "Chips and Cheese"
   ],
   "items": [
+    {
+      "id": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "title": "Three LLM inflection points in twelve months",
+      "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-24T23:02:07.000Z",
+      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today, Novemb",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=383933",
+      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+      "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T22:36:02.000Z",
+      "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383929",
+      "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+      "link": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T21:46:02.000Z",
+      "summary": "Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383930",
+      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+      "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T21:16:02.000Z",
+      "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383927",
+      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T20:36:02.000Z",
+      "summary": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383909",
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T19:35:32.000Z",
+      "summary": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
+      "importance": "important"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+      "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-24T19:16:38.000Z",
+      "summary": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
+      "importance": "small"
+    },
+    {
+      "id": "https://decrypt.co/?p=383906",
+      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+      "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T18:55:27.000Z",
+      "summary": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383905",
+      "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+      "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T18:36:03.000Z",
+      "summary": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383898",
+      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+      "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-24T18:16:02.000Z",
+      "summary": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
+      "importance": "important"
+    },
     {
       "id": "https://decrypt.co/?p=383730",
       "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
@@ -319,46 +419,6 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383779",
-      "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
-      "link": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T13:25:35.000Z",
-      "summary": "Michael Saylor's firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383775",
-      "title": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
-      "link": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T13:08:23.000Z",
-      "summary": "Investigators say \"decentralized\" casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383762",
-      "title": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
-      "link": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T12:43:30.000Z",
-      "summary": "A meme coin honoring the Cincinnati Zoo's late pygmy hippo has sent its creator rewards to the zoo's nonprofit.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383758",
-      "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
-      "link": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T11:14:22.000Z",
-      "summary": "Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June.",
-      "importance": "important"
-    },
-    {
       "id": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
       "title": "datasette-charts 0.1a0",
       "link": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
@@ -379,16 +439,6 @@
       "importance": "medium"
     },
     {
-      "id": "https://decrypt.co/?p=383743",
-      "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
-      "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-22T14:01:02.000Z",
-      "summary": "Google’s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
-      "importance": "important"
-    },
-    {
       "id": "https://simonwillison.net/2026/Nov/21/muru/",
       "title": "Muru",
       "link": "https://simonwillison.net/2026/Nov/21/muru/",
@@ -399,26 +449,6 @@
       "importance": "medium"
     },
     {
-      "id": "https://decrypt.co/?p=383756",
-      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-      "link": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-21T18:01:02.000Z",
-      "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383752",
-      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-      "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-21T17:01:02.000Z",
-      "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
-      "importance": "important"
-    },
-    {
       "id": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
       "title": "EP234: Docker vs Kubernetes",
       "link": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
@@ -427,16 +457,6 @@
       "date": "2026-11-21T16:31:20.000Z",
       "summary": "Which one should we use?",
       "importance": "medium"
-    },
-    {
-      "id": "https://decrypt.co/?p=383750",
-      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-      "link": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-21T16:01:02.000Z",
-      "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
-      "importance": "important"
     },
     {
       "id": "01M7X91JJQ5CWGQ65DZBAHW4Q9",
@@ -857,16 +877,6 @@
       "date": "2026-11-14T16:30:57.000Z",
       "summary": "Kubernetes is an orchestration platform that manages the deployment and maintenance of containerized applications, particularly on multiple machines.",
       "importance": "medium"
-    },
-    {
-      "id": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "title": "datasette-cluster-map 0.19",
-      "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-13T23:02:45.000Z",
-      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&amp;E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial ",
-      "importance": "important"
     },
     {
       "id": "01M7B8MAKWAA44XACM7ZT7P4NN",
@@ -1407,16 +1417,6 @@
       "date": "2026-10-08T16:55:51.000Z",
       "summary": "Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
       "importance": "important"
-    },
-    {
-      "id": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
-      "title": "Building resilient systems with Sam Newman",
-      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
-      "source": "Pragmatic Engineer",
-      "weight": 1,
-      "date": "2026-10-07T17:19:58.000Z",
-      "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development.",
-      "importance": "medium"
     },
     {
       "id": "https://chipsandcheese.com/p/nvidias-olympus-core-pushing-server",
