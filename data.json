@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:43:35.383Z",
+  "generatedAt": "2026-11-26T16:40:53.699Z",
   "count": 290,
   "sources": [
     "Decrypt",
@@ -18,6 +18,126 @@
     "Chips and Cheese"
   ],
   "items": [
+    {
+      "id": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+      "title": "The Life of a Database Row: What Really Happens Behind the Scenes",
+      "link": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-26T16:30:34.000Z",
+      "summary": "In this article, we’ll look at the life of a row in the database with respect to these operations.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=384053",
+      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+      "link": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T15:11:14.000Z",
+      "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "title": "Quoting Jack Despain Zhou",
+      "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-26T15:09:31.000Z",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputa",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=384043",
+      "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+      "link": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T14:38:55.000Z",
+      "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384036",
+      "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+      "link": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T14:26:22.000Z",
+      "summary": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384033",
+      "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+      "link": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T13:13:19.000Z",
+      "summary": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384030",
+      "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
+      "link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T12:26:08.000Z",
+      "summary": "A month after saying Bitcoin had bottomed in June, Galaxy now says a daily close below $58,525 would signal a materially lower low.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384027",
+      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+      "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T11:50:23.000Z",
+      "summary": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384025",
+      "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+      "link": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T11:25:58.000Z",
+      "summary": "The couple fled the U.S. before a default ruling in 2025, so victims of the scheme may struggle to recover their money.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-26T06:08:25.000Z",
+      "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the bac",
+      "importance": "medium"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-26T05:08:46.000Z",
+      "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features &mdash; Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and",
+      "importance": "medium"
+    },
+    {
+      "id": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "title": "Qualcomm’s Oryon 3 Reaches the Top",
+      "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "source": "Chips and Cheese",
+      "weight": 1,
+      "date": "2026-11-26T02:14:27.000Z",
+      "summary": "Qualcomm’s laptop effort had humble beginnings.",
+      "importance": "medium"
+    },
     {
       "id": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
       "title": "Quoting Scott Aaronson",
@@ -106,6 +226,16 @@
       "weight": 2,
       "date": "2026-11-25T18:18:10.000Z",
       "summary": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "title": "datasette-charts 0.3a0",
+      "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-25T18:16:50.000Z",
+      "summary": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here's that same chart in Datasette Lite , where you can tweak the annotations using the chart builder UI: If you also install Datasette Agent the agent can build an",
       "importance": "important"
     },
     {
@@ -309,36 +439,6 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383898",
-      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
-      "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T18:16:02.000Z",
-      "summary": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383730",
-      "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-      "link": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T17:45:22.000Z",
-      "summary": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383889",
-      "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-      "link": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T17:43:03.000Z",
-      "summary": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
-      "importance": "important"
-    },
-    {
       "id": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
@@ -349,43 +449,13 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383877",
-      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-      "link": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T16:00:44.000Z",
-      "summary": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383874",
-      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
-      "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T14:13:03.000Z",
-      "summary": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383857",
-      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-      "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T13:46:03.000Z",
-      "summary": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383868",
-      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-      "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T13:07:49.000Z",
-      "summary": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.",
+      "id": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "title": "datasette-charts 0.2a1",
+      "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-24T06:07:19.000Z",
+      "summary": "Release: datasette-charts 0.2a1 Minor UI improvements: Collapsing the suggested charts section now leaves the chart visible. Following a link to a chart opens it with the suggestions collapsed for that visit. On table pages the panel now sits below the \"4,235 rows where country = CHN\" line. The \"Data\" table under each chart has been replaced by Copy TSV and Copy CSV buttons. Removed the \"Chart thi",
       "importance": "important"
     },
     {
@@ -839,26 +909,6 @@
       "importance": "important"
     },
     {
-      "id": "https://simonwillison.net/2026/Nov/15/datasette/",
-      "title": "datasette 1.0a43",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-15T23:20:27.000Z",
-      "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response",
-      "importance": "important"
-    },
-    {
-      "id": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-      "title": "datasette 0.65.6",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-15T23:18:17.000Z",
-      "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /&lt;route&gt;.db by actors who were denied access to it. [...] Tags: security , datasette",
-      "importance": "important"
-    },
-    {
       "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
       "title": "LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals",
       "link": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
@@ -867,36 +917,6 @@
       "date": "2026-11-15T22:15:41.000Z",
       "summary": "decision time",
       "importance": "medium"
-    },
-    {
-      "id": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-      "title": "datasette-apps 0.4a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-15T04:02:45.000Z",
-      "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write",
-      "importance": "important"
-    },
-    {
-      "id": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-      "title": "datasette-agent 0.6a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-15T03:49:47.000Z",
-      "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai",
-      "importance": "important"
-    },
-    {
-      "id": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "title": "datasette-llm 0.1a11",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-14T23:59:28.000Z",
-      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or",
-      "importance": "important"
     },
     {
       "id": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
@@ -1227,16 +1247,6 @@
       "date": "2026-11-02T00:00:00.000Z",
       "summary": "When we looked at how well agents used test/verification techniques in August1, we saw that GPT-5.6 Sol generally did what you might call a caricature of various techniques when asked to use a technique or library such as TDD, QuickCheck, Lean 4, etc.; not specifying any particular test method (which we'll call Default) resulted in many worthless unit tests, which was one of the best performing co",
       "importance": "important"
-    },
-    {
-      "id": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
-      "title": "EP231: AI Terms You Need to Know",
-      "link": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
-      "source": "ByteByteGo",
-      "weight": 0,
-      "date": "2026-10-31T15:31:08.000Z",
-      "summary": "What else should be on the list?",
-      "importance": "medium"
     },
     {
       "id": "01M66XYRNK559YY01V2P37EBD7",
@@ -1716,16 +1726,6 @@
       "weight": 1,
       "date": "2026-08-24T16:49:25.000Z",
       "summary": "CUDA is the most important software framework in the GPU compute world, and Nvidia is looking at supporting CUDA on RISC-V. Terms and conditions may apply.",
-      "importance": "medium"
-    },
-    {
-      "id": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
-      "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
-      "link": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
-      "source": "Chips and Cheese",
-      "weight": 1,
-      "date": "2026-08-23T22:51:05.000Z",
-      "summary": "Machine learning workloads have an insatiable appetite for DRAM capacity. Flash memory is cheaper per gigabyte of capacity than DRAM. Could it offer a way out?",
       "importance": "medium"
     },
     {
