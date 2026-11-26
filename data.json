@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:00:40.223Z",
+  "generatedAt": "2026-11-26T01:43:35.383Z",
   "count": 290,
   "sources": [
     "Decrypt",
@@ -18,6 +18,126 @@
     "Chips and Cheese"
   ],
   "items": [
+    {
+      "id": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "title": "Quoting Scott Aaronson",
+      "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-25T23:26:32.000Z",
+      "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoreti",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=384015",
+      "title": "China's Google Just Released Its Fast New AI Model for Free",
+      "link": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T22:38:09.000Z",
+      "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384001",
+      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+      "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T21:46:02.000Z",
+      "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
+      "importance": "important"
+    },
+    {
+      "id": "https://streaminglearningcenter.com/?p=22473",
+      "title": "VMAF 1.0  – The Colonoscopy",
+      "link": "https://streaminglearningcenter.com/articles/vmaf-1-0-the-colonoscopy.html",
+      "source": "Streaming Learning Center",
+      "weight": 0,
+      "date": "2026-11-25T21:42:28.000Z",
+      "summary": "Apologies for the visual to those who know what a colonoscopy actually is, but after about a week of exploring the new version, it’s the best description for the testing I’ve done. Hopefully reading this won’t be as unpleasant as the actual experience. For perspective, VMAF, the quality metric, has become integral to how we … The post VMAF 1.0 – The Colonoscopy first appeared on Streaming Learning",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=384002",
+      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+      "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T21:16:02.000Z",
+      "summary": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383999",
+      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T20:36:03.000Z",
+      "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383997",
+      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+      "link": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T20:06:03.000Z",
+      "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383994",
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T19:28:54.000Z",
+      "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383991",
+      "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+      "link": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T18:18:10.000Z",
+      "summary": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383963",
+      "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+      "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T17:46:02.000Z",
+      "summary": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
+      "importance": "important"
+    },
+    {
+      "id": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "link": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "source": "Pragmatic Engineer",
+      "weight": 1,
+      "date": "2026-11-25T17:31:32.000Z",
+      "summary": "Katelyn Lesse explains how Anthropic rewrote Claude’s API in Rust and how AI agents are changing engineering at the company.",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=383985",
+      "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+      "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-25T17:16:02.000Z",
+      "summary": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.",
+      "importance": "important"
+    },
     {
       "id": "https://decrypt.co/?p=383967",
       "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
@@ -269,36 +389,6 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383860",
-      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
-      "link": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T13:01:30.000Z",
-      "summary": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383854",
-      "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
-      "link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T12:40:47.000Z",
-      "summary": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383853",
-      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
-      "link": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T11:35:13.000Z",
-      "summary": "Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back.",
-      "importance": "important"
-    },
-    {
       "id": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
       "title": "datasette-charts 0.2a0",
       "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
@@ -329,16 +419,6 @@
       "importance": "medium"
     },
     {
-      "id": "https://decrypt.co/?p=383851",
-      "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
-      "link": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T23:06:02.000Z",
-      "summary": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
-      "importance": "important"
-    },
-    {
       "id": "https://simonwillison.net/2026/Nov/23/ladybird/",
       "title": "Ladybird's first alpha release",
       "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
@@ -346,56 +426,6 @@
       "weight": 1,
       "date": "2026-11-23T21:46:35.000Z",
       "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, ",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383848",
-      "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
-      "link": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T21:46:03.000Z",
-      "summary": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383846",
-      "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
-      "link": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T21:16:03.000Z",
-      "summary": "Alexandr Wang says Claude’s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383844",
-      "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
-      "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T20:36:02.000Z",
-      "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\"",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383841",
-      "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
-      "link": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T19:57:21.000Z",
-      "summary": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383820",
-      "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
-      "link": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-23T18:45:21.000Z",
-      "summary": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback.",
       "importance": "important"
     },
     {
@@ -866,16 +896,6 @@
       "weight": 1,
       "date": "2026-11-14T23:59:28.000Z",
       "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or",
-      "importance": "important"
-    },
-    {
-      "id": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-      "title": "datasette-vega 0.7",
-      "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-14T17:09:09.000Z",
-      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript ",
       "importance": "important"
     },
     {
@@ -1409,16 +1429,6 @@
       "importance": "medium"
     },
     {
-      "id": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
-      "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
-      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
-      "source": "Pragmatic Engineer",
-      "weight": 1,
-      "date": "2026-10-08T16:55:51.000Z",
-      "summary": "Also: do us engineers truly enjoy ‘hard problems’, or do we really just want to solve those which attract promotions, new open models launch in the EU and US, and more",
-      "importance": "important"
-    },
-    {
       "id": "https://chipsandcheese.com/p/nvidias-olympus-core-pushing-server",
       "title": "NVIDIA’s Olympus Core: Pushing Server Single Threaded Performance Boundaries",
       "link": "https://chipsandcheese.com/p/nvidias-olympus-core-pushing-server",
@@ -1726,16 +1736,6 @@
       "weight": 0,
       "date": "2026-08-21T00:00:00.000Z",
       "summary": "The other day, I saw a viral tweet saying that people talking about how LLMs are causing slow, bloated, code are going to eat crow once they re-write everything in super-optimized assembly. We're not quite at the point where we want to write everything in assembly, but some variant of what Nolan Lawson said about testing, you can choose how many bugs you want now, which I less eloquently noted her",
-      "importance": "medium"
-    },
-    {
-      "id": "https://streaminglearningcenter.com/?p=22180",
-      "title": "Munich Court Proposes €1.05 Monthly Codec Royalty for Netflix Premium Subscribers",
-      "link": "https://streaminglearningcenter.com/articles/munich-court-proposes-e1-05-monthly-codec-royalty-for-netflix-premium-subscribers.html",
-      "source": "Streaming Learning Center",
-      "weight": 0,
-      "date": "2026-08-20T19:14:06.000Z",
-      "summary": "The 7th Civil Chamber of the Munich I Regional Court just published detailed FRAND guidelines addressing standard-essential patent licensing. The guidelines include an analysis of how the court might calculate video codec royalties for streaming services, with Netflix and Disney+ as examples. This was not a decision involving either company. In fact, the court noted … The post Munich Court Propose",
       "importance": "medium"
     },
     {
