@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:36:56.525Z",
+  "generatedAt": "2026-11-27T16:27:03.771Z",
   "count": 290,
   "sources": [
     "Decrypt",
@@ -18,6 +18,66 @@
     "Chips and Cheese"
   ],
   "items": [
+    {
+      "id": "https://decrypt.co/?p=384138",
+      "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+      "link": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T16:21:40.000Z",
+      "summary": "Modders have added multiplayer to an unofficial PC port and unlocked higher frame rates on jailbroken consoles.",
+      "importance": "important"
+    },
+    {
+      "id": "https://blog.bytebytego.com/p/limited-time-offer-all-in-one-interview-33c",
+      "title": "⏳ LIMITED TIME OFFER: All in One Interview Prep Black Friday Sale",
+      "link": "https://blog.bytebytego.com/p/limited-time-offer-all-in-one-interview-33c",
+      "source": "ByteByteGo",
+      "weight": 0,
+      "date": "2026-11-27T15:30:45.000Z",
+      "summary": "Yearly Black Friday sale is now live!",
+      "importance": "medium"
+    },
+    {
+      "id": "https://decrypt.co/?p=362597",
+      "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
+      "link": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T13:50:04.000Z",
+      "summary": "Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384121",
+      "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+      "link": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T13:24:17.000Z",
+      "summary": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384118",
+      "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+      "link": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T11:19:47.000Z",
+      "summary": "Kalshi says about 500 businesses have used it to hedge risks such as tariffs and bad weather, as legal fights weigh on its sports markets.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384104",
+      "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+      "link": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T10:15:51.000Z",
+      "summary": "Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October.",
+      "importance": "important"
+    },
     {
       "id": "https://decrypt.co/?p=384061",
       "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
@@ -369,36 +429,6 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383941",
-      "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-      "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T11:52:06.000Z",
-      "summary": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383938",
-      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
-      "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T11:23:57.000Z",
-      "summary": "HYPE fell more than 8% after Abraxas Capital pulled out of Hyperliquid, while U.S. Bitcoin ETFs' November outflows passed $4.9 billion.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383935",
-      "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-      "link": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T10:35:57.000Z",
-      "summary": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak.",
-      "importance": "important"
-    },
-    {
       "id": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
       "title": "Three LLM inflection points in twelve months",
       "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
@@ -407,26 +437,6 @@
       "date": "2026-11-24T23:02:07.000Z",
       "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today, Novemb",
       "importance": "medium"
-    },
-    {
-      "id": "https://decrypt.co/?p=383933",
-      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-      "link": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T22:36:02.000Z",
-      "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383929",
-      "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-      "link": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T21:46:02.000Z",
-      "summary": "Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.",
-      "importance": "important"
     },
     {
       "id": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
@@ -1206,16 +1216,6 @@
       "weight": 0,
       "date": "2026-11-02T22:14:46.000Z",
       "summary": "You may have heard about a recent decision in Snap’s UK licensing dispute with Dolby and Access Advance. Here’s what you need to know. Background Dolby sued Snap for HEVC and AV1 patent infringement in Delaware and Rio de Janeiro on March 23, 2026, seeking damages and injunctions. Other VDP Pool licensors followed with suits … The post Snap Gets Its RAND Trial Against Dolby and Access Advance. Fiv",
-      "importance": "medium"
-    },
-    {
-      "id": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
-      "title": "How Nvidia's New Nemotron Model Works",
-      "link": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
-      "source": "ByteByteGo",
-      "weight": 0,
-      "date": "2026-11-02T16:31:02.000Z",
-      "summary": "In this article, we’ll look at how Nemotron works and the various techniques used by Nvidia while building it.",
       "importance": "medium"
     },
     {
