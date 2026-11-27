@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:40:53.699Z",
+  "generatedAt": "2026-11-27T01:36:56.525Z",
   "count": 290,
   "sources": [
     "Decrypt",
@@ -18,6 +18,56 @@
     "Chips and Cheese"
   ],
   "items": [
+    {
+      "id": "https://decrypt.co/?p=384061",
+      "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+      "link": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T22:01:02.000Z",
+      "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=383986",
+      "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+      "link": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T21:01:03.000Z",
+      "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384066",
+      "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+      "link": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T19:01:02.000Z",
+      "summary": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384079",
+      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T18:15:29.000Z",
+      "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384063",
+      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-26T16:43:02.000Z",
+      "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
+      "importance": "important"
+    },
     {
       "id": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
       "title": "The Life of a Database Row: What Really Happens Behind the Scenes",
@@ -379,36 +429,6 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383930",
-      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-      "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T21:16:02.000Z",
-      "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383927",
-      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-      "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T20:36:02.000Z",
-      "summary": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383909",
-      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
-      "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T19:35:32.000Z",
-      "summary": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
-      "importance": "important"
-    },
-    {
       "id": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
       "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
       "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
@@ -417,26 +437,6 @@
       "date": "2026-11-24T19:16:38.000Z",
       "summary": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
       "importance": "small"
-    },
-    {
-      "id": "https://decrypt.co/?p=383906",
-      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-      "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T18:55:27.000Z",
-      "summary": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383905",
-      "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-      "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-24T18:36:03.000Z",
-      "summary": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
-      "importance": "important"
     },
     {
       "id": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
