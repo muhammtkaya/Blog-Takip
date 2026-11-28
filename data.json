@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:17:07.190Z",
+  "generatedAt": "2026-11-28T15:19:25.359Z",
   "count": 290,
   "sources": [
     "Decrypt",
@@ -18,6 +18,16 @@
     "Chips and Cheese"
   ],
   "items": [
+    {
+      "id": "https://decrypt.co/?p=384126",
+      "title": "Russia Is Turning Pigeons Into Cyborg Drones—and You Can Now Hire Them",
+      "link": "https://decrypt.co/384126/russia-pigeons-icyborg-drones-you-can-now-hire-them",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-28T14:01:02.000Z",
+      "summary": "A Russian neurotechnology company is taking commercial orders for brain-implanted pigeons that it says can follow remote commands and fly for more than 10 hours.",
+      "importance": "important"
+    },
     {
       "id": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
       "title": "datasette-charts 0.4a0",
@@ -406,16 +416,6 @@
       "weight": 2,
       "date": "2026-11-25T19:28:54.000Z",
       "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383991",
-      "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-      "link": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T18:18:10.000Z",
-      "summary": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth.",
       "importance": "important"
     },
     {
