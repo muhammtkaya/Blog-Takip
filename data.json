@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:27:03.771Z",
+  "generatedAt": "2026-11-28T01:17:07.190Z",
   "count": 290,
   "sources": [
     "Decrypt",
@@ -18,6 +18,76 @@
     "Chips and Cheese"
   ],
   "items": [
+    {
+      "id": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "title": "datasette-charts 0.4a0",
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-27T23:57:17.000Z",
+      "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart p",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384222",
+      "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+      "link": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T21:46:03.000Z",
+      "summary": "The ChatGPT maker’s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the AI-device race.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384218",
+      "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+      "link": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T20:46:02.000Z",
+      "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384177",
+      "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+      "link": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T19:46:02.000Z",
+      "summary": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from prolonged, painful bear markets.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384154",
+      "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+      "link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T18:16:03.000Z",
+      "summary": "Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384174",
+      "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+      "link": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T17:43:29.000Z",
+      "summary": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data.",
+      "importance": "important"
+    },
+    {
+      "id": "https://decrypt.co/?p=384153",
+      "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+      "link": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+      "source": "Decrypt",
+      "weight": 2,
+      "date": "2026-11-27T17:09:30.000Z",
+      "summary": "Banned Nvidia racks were found at a Shanghai data center tied to Alice Huang, as Trump said the U.S. could still take a stake in the firm.",
+      "importance": "important"
+    },
     {
       "id": "https://decrypt.co/?p=384138",
       "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
@@ -76,6 +146,16 @@
       "weight": 2,
       "date": "2026-11-27T10:15:51.000Z",
       "summary": "Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October.",
+      "importance": "important"
+    },
+    {
+      "id": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "title": "datasette-mcp 0.4",
+      "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "source": "Simon Willison",
+      "weight": 1,
+      "date": "2026-11-27T00:26:17.000Z",
+      "summary": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
       "importance": "important"
     },
     {
@@ -349,16 +429,6 @@
       "importance": "important"
     },
     {
-      "id": "https://decrypt.co/?p=383963",
-      "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-      "link": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T17:46:02.000Z",
-      "summary": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
-      "importance": "important"
-    },
-    {
       "id": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
       "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
       "link": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
@@ -369,36 +439,6 @@
       "importance": "medium"
     },
     {
-      "id": "https://decrypt.co/?p=383985",
-      "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
-      "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T17:16:02.000Z",
-      "summary": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383967",
-      "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
-      "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T16:52:50.000Z",
-      "summary": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383962",
-      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
-      "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T16:07:35.000Z",
-      "summary": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
-      "importance": "important"
-    },
-    {
       "id": "01M87EHEACB4SNPV680X1CZPQ1",
       "title": "Introducing Search for Agents",
       "link": "https://blog.cloudflare.com/search-for-agents/",
@@ -407,26 +447,6 @@
       "date": "2026-11-25T14:00:00.000Z",
       "summary": "Flip one toggle to make your site searchable by AI agents — complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
       "importance": "medium"
-    },
-    {
-      "id": "https://decrypt.co/?p=383945",
-      "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-      "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T13:41:38.000Z",
-      "summary": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous.",
-      "importance": "important"
-    },
-    {
-      "id": "https://decrypt.co/?p=383944",
-      "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-      "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
-      "source": "Decrypt",
-      "weight": 2,
-      "date": "2026-11-25T13:15:24.000Z",
-      "summary": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
-      "importance": "important"
     },
     {
       "id": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
@@ -849,16 +869,6 @@
       "importance": "medium"
     },
     {
-      "id": "https://simonwillison.net/2026/Nov/16/llm/",
-      "title": "llm 0.37.3",
-      "link": "https://simonwillison.net/2026/Nov/16/llm/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-16T23:57:26.000Z",
-      "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this: {\"a\":",
-      "importance": "important"
-    },
-    {
       "id": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
       "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
       "link": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
@@ -907,16 +917,6 @@
       "date": "2026-11-16T00:00:00.000Z",
       "summary": "What does it mean to understand what we built? Let's try come to an understanding. Today, a couple of people sent me the No AI Slop Manifesto. I found it interesting, in part, because it touches on something that seems super important right now: understanding. Through this work, we have come to value: … Understanding over speed I fully agree with that as a pithy statement, but I think we are worki",
       "importance": "medium"
-    },
-    {
-      "id": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "title": "datasette-maplibre 0.1a0",
-      "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-      "source": "Simon Willison",
-      "weight": 1,
-      "date": "2026-11-15T23:58:36.000Z",
-      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/",
-      "importance": "important"
     },
     {
       "id": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
